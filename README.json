@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first. Thank you for lot of attention.",
+      "items": [],
+      "title": "Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Classification"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Object Detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Semantic Segmentation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Fine Grained Visual Categorization"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Meta-Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Image Self Supervised Learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "How to cite"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T11:06:47.466Z",
+    "original_repository": "WongiPark0628/Awesome-ComputerVision",
+    "original_repository_sha": "f88a20185cbb8bc9359de4889688bf5bcccad1bc",
+    "enhanced_repository": "enhansome/enhansome-Awesome-ComputerVision",
+    "enhanced_repository_description": null,
+    "title": "Awesome ComputerVision with stars"
+  }
+}
