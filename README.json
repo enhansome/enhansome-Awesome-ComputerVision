@@ -1,7 +1,1709 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "1998",
+          "description": "LeNet : Gradient-based learning applied to document recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110404551,
+            "language": "Python",
+            "last_commit": "2023-01-27T01:11:49Z",
+            "owner": "activatedgeek",
+            "repo": "LeNet-5",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2012",
+          "description": "AlexNet : ImageNet Classification with Deep Convolutional Neural Networks PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110404551,
+            "language": "Python",
+            "last_commit": "2023-01-27T01:11:49Z",
+            "owner": "activatedgeek",
+            "repo": "LeNet-5",
+            "stars": 252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2014",
+          "description": "VGGNet : Very Deep Convolutional Networks for Large-Scale Image Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229672398,
+            "language": "Python",
+            "last_commit": "2026-07-23T14:57:36Z",
+            "owner": "Lornatang",
+            "repo": "VGG-PyTorch",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "GoogLeNet : Going Deeper with Convolutions PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232813049,
+            "language": "Python",
+            "last_commit": "2023-05-18T11:30:49Z",
+            "owner": "Lornatang",
+            "repo": "GoogLeNet-PyTorch",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "InceptionNet : Going deeper with convolutions PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 42382201,
+            "language": null,
+            "last_commit": "2015-10-26T18:01:06Z",
+            "owner": "google",
+            "repo": "inception",
+            "stars": 878
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "ResNet : Deep Residual Learning for Image Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73328905,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:42:14Z",
+            "owner": "pytorch",
+            "repo": "vision",
+            "stars": 17879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "SqueezeNet : AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52310392,
+            "language": null,
+            "last_commit": "2018-07-09T21:10:27Z",
+            "owner": "forresti",
+            "repo": "SqueezeNet",
+            "stars": 2218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "DenseNet : Densely Connected Convolutional Networks PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66501243,
+            "language": "Lua",
+            "last_commit": "2024-01-09T13:15:40Z",
+            "owner": "liuzhuang13",
+            "repo": "DenseNet",
+            "stars": 4869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "XceptionNet : Deep Learning with Depthwise Separable Convolutions PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 118868906,
+            "language": "Python",
+            "last_commit": "2023-01-16T09:14:24Z",
+            "owner": "tstandley",
+            "repo": "Xception-PyTorch",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "MobileNetV1 : Efficient Convolutional Neural Networks for Mobile Vision Application PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 243254998,
+            "language": "Python",
+            "last_commit": "2020-12-01T01:11:50Z",
+            "owner": "jmjeon2",
+            "repo": "MobileNet-Pytorch",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "ShuffleNet : An Extremely Efficient Convolutional Neural Network for Mobile Devices PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97298151,
+            "language": "Python",
+            "last_commit": "2017-12-20T12:50:24Z",
+            "owner": "jaxony",
+            "repo": "ShuffleNet",
+            "stars": 296
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "MobileNetV2 : Inverted Residuals and Linear Bottlenecks PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127968704,
+            "language": "TypeScript",
+            "last_commit": "2026-06-23T19:24:12Z",
+            "owner": "tensorflow",
+            "repo": "tfjs-models",
+            "stars": 14791
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "NASNet : Learning Transferable Architectures for Scalable Image Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 249641601,
+            "language": "Python",
+            "last_commit": "2020-03-30T09:33:00Z",
+            "owner": "MarSaKi",
+            "repo": "nasnet",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "Squeeze Excitation Network : Squeeze-and-Excitation Networks PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100795326,
+            "language": "Cuda",
+            "last_commit": "2019-02-25T08:41:20Z",
+            "owner": "hujie-frank",
+            "repo": "SENet",
+            "stars": 3646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "Residual Attention Network : Residual Attention Network for Image Classification PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124525866,
+            "language": "Python",
+            "last_commit": "2018-10-29T05:56:01Z",
+            "owner": "tengshaofeng",
+            "repo": "ResidualAttentionNetwork-pytorch",
+            "stars": 685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "Relative Position Attention : Self-Attention with Relative Position Representations PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 327741989,
+            "language": "Python",
+            "last_commit": "2021-01-08T01:18:54Z",
+            "owner": "evelinehong",
+            "repo": "Transformer_Relative_Position_PyTorch",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "CBAM : Convolutional Block Attention Module PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 215145846,
+            "language": "Python",
+            "last_commit": "2019-10-18T12:42:21Z",
+            "owner": "elbuco1",
+            "repo": "CBAM",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "EfficientNet : Rethinking Model Scaling for Convolutional Neural Networks PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189350661,
+            "language": "Python",
+            "last_commit": "2022-04-08T12:30:25Z",
+            "owner": "lukemelas",
+            "repo": "EfficientNet-PyTorch",
+            "stars": 8221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Vision Transformer : An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306018946,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-01T21:36:15Z",
+            "owner": "google-research",
+            "repo": "vision_transformer",
+            "stars": 12679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Deit : Training data-efficient image transformers & distillation through attention PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 323966500,
+            "language": "Python",
+            "last_commit": "2024-03-15T13:20:37Z",
+            "owner": "facebookresearch",
+            "repo": "deit",
+            "stars": 4355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "PVT : Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 341748701,
+            "language": "Python",
+            "last_commit": "2022-10-27T08:47:14Z",
+            "owner": "whai362",
+            "repo": "PVT",
+            "stars": 1900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "T2T : Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332114633,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-27T19:00:24Z",
+            "owner": "yitu-opensource",
+            "repo": "T2T-ViT",
+            "stars": 1191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "DeepVit : DeepViT: Towards Deeper Vision Transformer PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350903303,
+            "language": "Python",
+            "last_commit": "2021-12-18T15:03:53Z",
+            "owner": "zhoudaquan",
+            "repo": "dvit_repo",
+            "stars": 141
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CvT: Introducing Convolutions to Vision Transformers PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 370805731,
+            "language": "Python",
+            "last_commit": "2023-05-16T08:07:07Z",
+            "owner": "microsoft",
+            "repo": "CvT",
+            "stars": 606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CrossViT: Cross-Attention Multi-Scale Vision Transformer for Image Classification PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 391188495,
+            "language": "Python",
+            "last_commit": "2022-01-12T15:13:20Z",
+            "owner": "IBM",
+            "repo": "CrossViT",
+            "stars": 417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Focal-T : Focal Attention for Long-Range Interactions in Vision Transformers PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 384661236,
+            "language": "Python",
+            "last_commit": "2022-03-27T05:21:56Z",
+            "owner": "microsoft",
+            "repo": "Focal-Transformer",
+            "stars": 559
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Swin Transformer : Hierarchical Vision Transformer using Shifted Windows PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 351432397,
+            "language": "Python",
+            "last_commit": "2024-07-24T17:09:57Z",
+            "owner": "microsoft",
+            "repo": "Swin-Transformer",
+            "stars": 16050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "ConvNeXt : A ConvNet for the 2020s PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 444995502,
+            "language": "Python",
+            "last_commit": "2023-01-08T14:23:08Z",
+            "owner": "facebookresearch",
+            "repo": "ConvNeXt",
+            "stars": 6416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "ConvNeXt V2: Co-designing and Scaling ConvNets with Masked Autoencoders PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 583488732,
+            "language": "Python",
+            "last_commit": "2024-08-14T15:00:28Z",
+            "owner": "facebookresearch",
+            "repo": "ConvNeXt-V2",
+            "stars": 2069
+          }
+        }
+      ],
+      "title": "Image Classification"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2013",
+          "description": "R-CNN : Rich feature hierarchies for accurate object detection and semantic segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 242461146,
+            "language": "Python",
+            "last_commit": "2023-10-03T21:35:47Z",
+            "owner": "object-detection-algorithm",
+            "repo": "R-CNN",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "Faster R-CNN : Towards Real-Time Object Detection with Region Proposal Networks PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99269272,
+            "language": "Python",
+            "last_commit": "2022-05-20T09:01:28Z",
+            "owner": "jwyang",
+            "repo": "faster-rcnn.pytorch",
+            "stars": 7856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "YOLOv1 : You Only Look Once: Unified, Real-Time Object Detection PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133299605,
+            "language": "Python",
+            "last_commit": "2020-04-21T12:44:50Z",
+            "owner": "Tshzzz",
+            "repo": "pytorch_yolov1",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "SSD(Single Shot Detection) : Single Shot MultiBox Detector PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81275248,
+            "language": "Python",
+            "last_commit": "2021-12-29T03:19:26Z",
+            "owner": "amdegroot",
+            "repo": "ssd.pytorch",
+            "stars": 5221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "FPN(Feature Pyramids Network) : Feature Pyramid Networks for Object Detection PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117049638,
+            "language": "Python",
+            "last_commit": "2019-01-11T08:39:07Z",
+            "owner": "jwyang",
+            "repo": "fpn.pytorch",
+            "stars": 970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "RetinaNet : Focal loss for dense object detection PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 130927929,
+            "language": "Python",
+            "last_commit": "2023-04-29T14:16:18Z",
+            "owner": "yhenon",
+            "repo": "pytorch-retinanet",
+            "stars": 2205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "Mask-RCNN : Mask R-CNN PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 105919803,
+            "language": "Python",
+            "last_commit": "2023-11-20T09:13:34Z",
+            "owner": "facebookresearch",
+            "repo": "Detectron",
+            "stars": 26359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "YOLOv3 : An Incremental Improvement PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128474296,
+            "language": "Python",
+            "last_commit": "2024-01-16T12:30:23Z",
+            "owner": "ayooshkathuria",
+            "repo": "pytorch-yolo-v3",
+            "stars": 3312
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "RefineDet : Single-Shot Refinement Neural Network for Object Detection PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 111206760,
+            "language": "C++",
+            "last_commit": "2019-03-18T12:42:45Z",
+            "owner": "sfzhang15",
+            "repo": "RefineDet",
+            "stars": 1424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "M2Det : A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148000383,
+            "language": "Python",
+            "last_commit": "2019-11-14T10:21:38Z",
+            "owner": "VDIGPKU",
+            "repo": "M2Det",
+            "stars": 1438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "Mask scoring r-cnn PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172831315,
+            "language": "Python",
+            "last_commit": "2020-11-06T08:07:33Z",
+            "owner": "zjhuang22",
+            "repo": "maskscoring_rcnn",
+            "stars": 1895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "FSFA : Feature selective anchor-free module for single-shot object detection PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209993124,
+            "language": "Python",
+            "last_commit": "2025-11-26T17:18:44Z",
+            "owner": "hdjang",
+            "repo": "Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection",
+            "stars": 147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "Scratchdet : Exploring to train single-shot object detectors from scratch PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153621171,
+            "language": "Python",
+            "last_commit": "2019-06-16T15:47:34Z",
+            "owner": "KimSoybean",
+            "repo": "ScratchDet",
+            "stars": 226
+          }
+        }
+      ],
+      "title": "Object Detection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2014",
+          "description": "DeepLabV1 : Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220493299,
+            "language": "Python",
+            "last_commit": "2020-06-01T13:49:48Z",
+            "owner": "wangleihitcs",
+            "repo": "DeepLab-V1-PyTorch",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "FCN(Fully Convolutional Layer) : Fully Convolutional Networks for Semantic Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220493299,
+            "language": "Python",
+            "last_commit": "2020-06-01T13:49:48Z",
+            "owner": "wangleihitcs",
+            "repo": "DeepLab-V1-PyTorch",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "DeConvNet(Deconvolution Network) : Learning Deconvolution Network for Semantic Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 37599527,
+            "language": "Matlab",
+            "last_commit": "2015-06-23T08:26:49Z",
+            "owner": "HyeonwooNoh",
+            "repo": "DeconvNet",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "U-Net : Convolutional Networks for Biomedical Image Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100485912,
+            "language": "Python",
+            "last_commit": "2024-08-11T03:00:15Z",
+            "owner": "milesial",
+            "repo": "Pytorch-UNet",
+            "stars": 11609
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "DilatedNet : Multi-Scale Context Aggregation by dilated Convolution PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103090362,
+            "language": "Python",
+            "last_commit": "2020-03-09T19:11:52Z",
+            "owner": "fyu",
+            "repo": "drn",
+            "stars": 1102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "ENet : A Deep Neural Network Architecture for Real-Time Semantic Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61304253,
+            "language": "Lua",
+            "last_commit": "2017-06-26T18:15:27Z",
+            "owner": "e-lab",
+            "repo": "ENet-training",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "ICNet : ICNet for Real-Time Semantic Segmentation on High-Resolution Images PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 140302908,
+            "language": "Python",
+            "last_commit": "2026-08-21T19:11:46Z",
+            "owner": "supervisely",
+            "repo": "supervisely",
+            "stars": 540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "GCN : Large Kernel Matters Improve Semantic Segmentation by Global Convolutional Network PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196891428,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-23T19:05:28Z",
+            "owner": "yassouali",
+            "repo": "pytorch-segmentation",
+            "stars": 1818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "PSPNet : Pyramid Scene Parsing Network PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 75537029,
+            "language": "C++",
+            "last_commit": "2022-04-15T20:41:57Z",
+            "owner": "hszhao",
+            "repo": "PSPNet",
+            "stars": 1662
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "LinkNet : Exploiting Encoder Representations for Efficient Semantic Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90158359,
+            "language": "Lua",
+            "last_commit": "2017-08-07T18:58:00Z",
+            "owner": "e-lab",
+            "repo": "LinkNet",
+            "stars": 174
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "DUC, HUC : Understanding Convolution for Semantic Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196891428,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-02-23T19:05:28Z",
+            "owner": "yassouali",
+            "repo": "pytorch-segmentation",
+            "stars": 1818
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "SegNet : A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53382099,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-28T09:08:40Z",
+            "owner": "preddy5",
+            "repo": "segnet",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "ShuffleSeg : Real-Time Semantic Segmentation Network PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98748253,
+            "language": "Python",
+            "last_commit": "2022-11-22T01:54:43Z",
+            "owner": "MSiam",
+            "repo": "TFSegmentation",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "AdaptSegNet : Learning to Adapt Structured Output Space for Semantic Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 122384641,
+            "language": "Python",
+            "last_commit": "2020-08-14T00:12:23Z",
+            "owner": "wasidennis",
+            "repo": "AdaptSegNet",
+            "stars": 858
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "R2U-Net : Recurrent Residual Convolutional Neural Network based on U-Net for Medical Image Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137727195,
+            "language": "Python",
+            "last_commit": "2023-06-30T05:20:58Z",
+            "owner": "LeeJunHyun",
+            "repo": "Image_Segmentation",
+            "stars": 3101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "Attention U-Net : Learning Where to Look for the Pancreas PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127816431,
+            "language": "Python",
+            "last_commit": "2020-11-13T15:17:55Z",
+            "owner": "ozan-oktay",
+            "repo": "Attention-Gated-Networks",
+            "stars": 2064
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169124414,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-24T15:32:06Z",
+            "owner": "nibtehaz",
+            "repo": "MultiResUNet",
+            "stars": 501
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "SETR : Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325519051,
+            "language": "Python",
+            "last_commit": "2024-09-02T07:59:01Z",
+            "owner": "fudan-zvg",
+            "repo": "SETR",
+            "stars": 1108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "UTNet : A Hybrid Transformer Architecture for Medical Image Segmentation PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 411042315,
+            "language": "Python",
+            "last_commit": "2023-06-14T01:26:07Z",
+            "owner": "yhygao",
+            "repo": "UTNet",
+            "stars": 200
+          }
+        }
+      ],
+      "title": "Semantic Segmentation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "MA-CNN : Learning Multi-Attention Convolutional Neural Network for Fine-Grained Image Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 464512092,
+            "language": "Python",
+            "last_commit": "2022-03-06T03:51:27Z",
+            "owner": "liangnjupt",
+            "repo": "Multi-Attention-CNN-pytorch",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "RA-CNN : Recurrent Attention Convolutional Neural Networkfor Fine-grained Image Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 230198423,
+            "language": "Python",
+            "last_commit": "2022-07-28T08:10:45Z",
+            "owner": "klrc",
+            "repo": "RACNN-pytorch",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "NTS-Net : Learning to Navigate for Fine-grained Classification PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146991225,
+            "language": "Python",
+            "last_commit": "2021-09-22T00:34:47Z",
+            "owner": "yangze0930",
+            "repo": "NTS-Net",
+            "stars": 459
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "MGE-CNN : Learning a Mixture of Granularity-Specific Experts for Fine-GrainedCategorization PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 568617335,
+            "language": "Python",
+            "last_commit": "2022-11-23T05:10:15Z",
+            "owner": "WongiPark0628",
+            "repo": "MGE_FG",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "DCL-Net : Destruction and Construction Learning for Fine-grained Image Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179267676,
+            "language": "Python",
+            "last_commit": "2020-06-10T10:19:23Z",
+            "owner": "JDAI-CV",
+            "repo": "DCL",
+            "stars": 592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "LIO(Look-into-Object) : Self-supervised Structure Modeling for Object Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250489837,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-25T10:57:54Z",
+            "owner": "JDAI-CV",
+            "repo": "LIO",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "PMG(Progressive Multi Granularity) : Fine-Grained Visual Classification via Progressive Multi-Granularity Training of Jigsaw Patches PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 572244888,
+            "language": "Python",
+            "last_commit": "2023-01-03T08:38:47Z",
+            "owner": "WongiPark0628",
+            "repo": "PmgWithJigsaw",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "CAL(Counterfactual Attention Learning) : Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 397947436,
+            "language": "Python",
+            "last_commit": "2023-01-05T09:04:47Z",
+            "owner": "raoyongming",
+            "repo": "CAL",
+            "stars": 159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "TransFG : TransFG: A Transformer Architecture for Fine-grained Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352300645,
+            "language": "Python",
+            "last_commit": "2022-10-04T06:39:47Z",
+            "owner": "TACJu",
+            "repo": "TransFG",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "ProtoTrees : Neural Prototype Trees for Interpretable Fine-grained Image Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317840138,
+            "language": "Python",
+            "last_commit": "2022-06-30T06:17:49Z",
+            "owner": "M-Nauta",
+            "repo": "ProtoTree",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "FFVT : Feature Fusion Vision Transformer for Fine-Grained Visual Categorization PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378478332,
+            "language": "Python",
+            "last_commit": "2022-10-17T02:05:10Z",
+            "owner": "Markin-Wang",
+            "repo": "FFVT",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "PIM(plug in Module) : A Novel Plug-in Module for Fine-Grained Visual Classification PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 457212708,
+            "language": "Python",
+            "last_commit": "2023-04-01T08:53:45Z",
+            "owner": "chou141253",
+            "repo": "FGVC-PIM",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "FeNet : A Spatial Feature-Enhanced Attention Neural Network with High-Order Pooling Representation for Application in Pest and Disease Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 467513917,
+            "language": "Python",
+            "last_commit": "2022-03-08T14:34:08Z",
+            "owner": "btbuIntelliSense",
+            "repo": "Fe-net",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "MetaFormer : A Unified Meta Framework for Fine-Grained Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 466428937,
+            "language": "Python",
+            "last_commit": "2022-04-24T13:25:03Z",
+            "owner": "dqshuai",
+            "repo": "MetaFormer",
+            "stars": 245
+          }
+        }
+      ],
+      "title": "Fine Grained Visual Categorization"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2015",
+          "description": "Siamese Neural Networks for One-shot Image Recognition PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 326896992,
+            "language": "Python",
+            "last_commit": "2021-04-19T02:23:18Z",
+            "owner": "SoongE",
+            "repo": "siamese-one-shot-pytorch",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "Matching Networks for One Shot Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 92451791,
+            "language": "Python",
+            "last_commit": "2021-08-30T20:51:44Z",
+            "owner": "facebookresearch",
+            "repo": "low-shot-shrink-hallucinate",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "Learning to learn by gradient descent by gradient descent PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160516857,
+            "language": "Python",
+            "last_commit": "2019-11-05T08:20:00Z",
+            "owner": "yangsenius",
+            "repo": "learning-to-learn-by-pytorch",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "One-shot Learning with Memory-Augmented Neural Networks PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60089526,
+            "language": "Python",
+            "last_commit": "2018-12-04T21:10:13Z",
+            "owner": "tristandeleu",
+            "repo": "ntm-one-shot",
+            "stars": 422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "A Simple Neural Attentive Meta-Learner PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134166699,
+            "language": "Python",
+            "last_commit": "2019-07-06T00:29:24Z",
+            "owner": "eambutu",
+            "repo": "snail-pytorch",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "ProtoNet : Prototypical Networks for Few-shot Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109552139,
+            "language": "Python",
+            "last_commit": "2021-01-28T09:22:04Z",
+            "owner": "jakesnell",
+            "repo": "prototypical-networks",
+            "stars": 1235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "RelationNet : Learning to Compare: Relation Network for Few-Shot Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127135121,
+            "language": "Python",
+            "last_commit": "2019-10-22T03:19:44Z",
+            "owner": "floodsung",
+            "repo": "LearningToCompare_FSL",
+            "stars": 1076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "optimization as a model for few-shot learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 70565177,
+            "language": "Lua",
+            "last_commit": "2021-11-01T17:26:32Z",
+            "owner": "twitter-research",
+            "repo": "meta-learning-lstm",
+            "stars": 380
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "MAML : Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94658530,
+            "language": "Python",
+            "last_commit": "2020-01-19T22:05:37Z",
+            "owner": "cbfinn",
+            "repo": "maml",
+            "stars": 2727
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "Meta-SGD: Learning to Learn Quickly for Few-Shot Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201314421,
+            "language": "Python",
+            "last_commit": "2025-12-16T20:53:41Z",
+            "owner": "learnables",
+            "repo": "learn2learn",
+            "stars": 2893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "R2-D2/LR-D2 : Meta-learning with differentiable closed-form solvers PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134299300,
+            "language": "Python",
+            "last_commit": "2019-12-03T12:41:59Z",
+            "owner": "bertinetto",
+            "repo": "r2d2",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "MetaOptNet : Meta-Learning with Differentiable Convex Optimization PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155912925,
+            "language": "Python",
+            "last_commit": "2024-07-25T10:15:57Z",
+            "owner": "kjunelee",
+            "repo": "MetaOptNet",
+            "stars": 543
+          }
+        }
+      ],
+      "title": "Meta-Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2016",
+          "description": "Unsupervised Visual Representation Learning by Context Prediction PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 284673094,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-11-18T10:04:09Z",
+            "owner": "abhisheksambyal",
+            "repo": "Self-supervised-learning-by-context-prediction",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2017",
+          "description": "Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103534830,
+            "language": "Python",
+            "last_commit": "2018-06-20T12:37:04Z",
+            "owner": "bbrattoli",
+            "repo": "JigsawPuzzlePytorch",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2018",
+          "description": "Unsupervised Representation Learning by Predicting Image Rotations PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248087594,
+            "language": null,
+            "last_commit": "2026-02-03T19:40:18Z",
+            "owner": "facebookresearch",
+            "repo": "moco",
+            "stars": 5137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "Revisiting self-supervised visual representation learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 167518008,
+            "language": "Python",
+            "last_commit": "2020-02-13T11:26:24Z",
+            "owner": "google",
+            "repo": "revisiting-self-supervised",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2019",
+          "description": "PIRL: Self-Supervised Learning of Pretext-Invariant Representations PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 240972151,
+            "language": "Python",
+            "last_commit": "2020-09-09T17:21:39Z",
+            "owner": "akwasigroch",
+            "repo": "Pretext-Invariant-Representations",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Momentum Contrast for Unsupervised Visual Representation Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 246357476,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-22T04:42:53Z",
+            "owner": "google-research",
+            "repo": "simclr",
+            "stars": 4502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "A Simple Framework for Contrastive Learning of Visual Representations PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 246357476,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-22T04:42:53Z",
+            "owner": "google-research",
+            "repo": "simclr",
+            "stars": 4502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Big Self-Supervised Models are Strong Semi-Supervised Learners PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 246357476,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-22T04:42:53Z",
+            "owner": "google-research",
+            "repo": "simclr",
+            "stars": 4502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "MocoV2 : Improved Baselines with Momentum Contrastive Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385157471,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-07-12T07:47:10Z",
+            "owner": "Seonghoon-Yu",
+            "repo": "MoCov2_Pytorch_tutorial",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "BYOL : Bootstrap Your Own Latent A New Approach to Self-Supervised Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165826654,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-17T13:51:27Z",
+            "owner": "google-deepmind",
+            "repo": "deepmind-research",
+            "stars": 15166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Simsiam : Exploring Simple Siamese Representation Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 352746057,
+            "language": "Python",
+            "last_commit": "2023-01-26T11:34:46Z",
+            "owner": "facebookresearch",
+            "repo": "simsiam",
+            "stars": 1237
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2020",
+          "description": "Swav : Unsupervised Learning of Visual Features by Contrasting Cluster Assignments PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 280260739,
+            "language": "Python",
+            "last_commit": "2023-04-13T16:40:34Z",
+            "owner": "facebookresearch",
+            "repo": "swav",
+            "stars": 2096
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Barlow twins : Self-Supervised Learning via Redundancy Reduction PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 344510921,
+            "language": "Python",
+            "last_commit": "2022-03-03T02:59:31Z",
+            "owner": "facebookresearch",
+            "repo": "barlowtwins",
+            "stars": 1017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 464527925,
+            "language": "Python",
+            "last_commit": "2023-07-06T16:05:06Z",
+            "owner": "facebookresearch",
+            "repo": "vicreg",
+            "stars": 577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Jigsaw Clustering for Unsupervised Visual Representation Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 351648816,
+            "language": "Python",
+            "last_commit": "2021-05-11T07:40:18Z",
+            "owner": "JIA-Lab-research",
+            "repo": "JigsawClustering",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "Masked Autoencoders Are Scalable Vision Learners PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 435653386,
+            "language": "Python",
+            "last_commit": "2024-07-23T18:15:40Z",
+            "owner": "facebookresearch",
+            "repo": "mae",
+            "stars": 8371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "SimMIM: A Simple Framework for Masked Image Modeling PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 435653386,
+            "language": "Python",
+            "last_commit": "2024-07-23T18:15:40Z",
+            "owner": "facebookresearch",
+            "repo": "mae",
+            "stars": 8371
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2021",
+          "description": "iBOT 🤖: Image BERT Pre-Training with Online Tokenizer PDF",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 436574334,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-04-14T12:32:13Z",
+            "owner": "bytedance",
+            "repo": "ibot",
+            "stars": 778
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "Tailoring Self-Supervision for Supervised Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 510294462,
+            "language": "Python",
+            "last_commit": "2023-07-28T16:10:44Z",
+            "owner": "wjun0830",
+            "repo": "Localizable-Rotation",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2022",
+          "description": "BEiT: BERT Pre-Training of Image Transformers PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198350484,
+            "language": "Python",
+            "last_commit": "2026-01-23T04:09:35Z",
+            "owner": "microsoft",
+            "repo": "unilm",
+            "stars": 22195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Denoising Masked AutoEncoders Help Robust Classification PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 542996441,
+            "language": "Python",
+            "last_commit": "2023-06-04T11:45:30Z",
+            "owner": "quanlin-wu",
+            "repo": "dmae",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 585553796,
+            "language": "Python",
+            "last_commit": "2024-01-23T06:15:47Z",
+            "owner": "keyu-tian",
+            "repo": "SparK",
+            "stars": 1376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "PCAE : Progressively Compressed Auto-Encoder for Self-supervised Representation Learning PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 607131357,
+            "language": "Python",
+            "last_commit": "2023-10-26T02:37:42Z",
+            "owner": "caddyless",
+            "repo": "PCAE",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "2023",
+          "description": "HiViT: A Simple and More Efficient Design of Hierarchical Vision Transformer. PDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 608050521,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-03-01T08:05:30Z",
+            "owner": "zhangxiaosong18",
+            "repo": "hivit",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Image Self Supervised Learning"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T10:47:25.984Z",
+    "last_updated": "2026-08-24T14:37:58.625Z",
     "original_repository": "WongiPark0628/Awesome-ComputerVision",
     "original_repository_id": 512830484,
     "original_repository_sha": "f88a20185cbb8bc9359de4889688bf5bcccad1bc",
