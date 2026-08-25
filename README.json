@@ -87,10 +87,10 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-24T18:24:39Z",
+            "last_commit": "2026-08-25T09:48:03Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17879
+            "stars": 17880
           }
         },
         {
@@ -702,7 +702,7 @@
             "last_commit": "2024-08-11T03:00:15Z",
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11609
+            "stars": 11610
           }
         },
         {
@@ -1703,7 +1703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:39.906Z",
+    "last_updated": "2026-08-25T10:42:20.953Z",
     "original_repository": "WongiPark0628/Awesome-ComputerVision",
     "original_repository_id": 512830484,
     "original_repository_sha": "f88a20185cbb8bc9359de4889688bf5bcccad1bc",
