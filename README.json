@@ -87,10 +87,10 @@
             "archived": false,
             "id": 73328905,
             "language": "Python",
-            "last_commit": "2026-08-27T09:09:48Z",
+            "last_commit": "2026-08-27T15:12:54Z",
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17885
+            "stars": 17886
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-23T19:24:12Z",
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14793
+            "stars": 14794
           }
         },
         {
@@ -405,7 +405,7 @@
             "last_commit": "2024-07-24T17:09:57Z",
             "owner": "microsoft",
             "repo": "Swin-Transformer",
-            "stars": 16051
+            "stars": 16052
           }
         },
         {
@@ -606,7 +606,7 @@
             "last_commit": "2020-11-06T08:07:33Z",
             "owner": "zjhuang22",
             "repo": "maskscoring_rcnn",
-            "stars": 1895
+            "stars": 1894
           }
         },
         {
@@ -744,7 +744,7 @@
             "archived": false,
             "id": 140302908,
             "language": "Python",
-            "last_commit": "2026-08-26T10:00:44Z",
+            "last_commit": "2026-08-27T15:51:31Z",
             "owner": "supervisely",
             "repo": "supervisely",
             "stars": 541
@@ -1635,7 +1635,7 @@
             "last_commit": "2026-08-26T08:16:01Z",
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22194
+            "stars": 22197
           }
         },
         {
@@ -1703,7 +1703,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:21:02.915Z",
+    "last_updated": "2026-08-27T20:18:57.900Z",
     "original_repository_info": {
       "archived": false,
       "id": 512830484,
