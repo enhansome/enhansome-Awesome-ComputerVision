@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of LeNet-5 with live visualization",
+            "homepage": null,
             "id": 110404551,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-27T01:11:49Z",
+            "open_issues": 8,
             "owner": "activatedgeek",
             "repo": "LeNet-5",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "cnn",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "deep-neural-networks",
+              "lenet5",
+              "machine-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -26,12 +39,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of LeNet-5 with live visualization",
+            "homepage": null,
             "id": 110404551,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-27T01:11:49Z",
+            "open_issues": 8,
             "owner": "activatedgeek",
             "repo": "LeNet-5",
-            "stars": 252
+            "stars": 252,
+            "topics": [
+              "cnn",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "deep-neural-networks",
+              "lenet5",
+              "machine-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -42,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The implementation of VGG thesis is implemented under PyTorch framework",
+            "homepage": null,
             "id": 229672398,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T14:57:36Z",
+            "open_issues": 1,
             "owner": "Lornatang",
             "repo": "VGG-PyTorch",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -58,12 +89,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Restore the official code 100% and improve it to make it easier to use.",
+            "homepage": null,
             "id": 232813049,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-18T11:30:49Z",
+            "open_issues": 1,
             "owner": "Lornatang",
             "repo": "GoogLeNet-PyTorch",
-            "stars": 52
+            "stars": 52,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -74,12 +110,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 42382201,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2015-10-26T18:01:06Z",
+            "open_issues": 0,
             "owner": "google",
             "repo": "inception",
-            "stars": 878
+            "stars": 878,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -90,12 +131,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Datasets, Transforms and Models specific to Computer Vision",
+            "homepage": "https://pytorch.org/vision",
             "id": 73328905,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T15:34:09Z",
+            "open_issues": 1197,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17887
+            "stars": 17887,
+            "topics": [
+              "computer-vision",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -106,12 +155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SqueezeNet: AlexNet-level accuracy with 50x fewer parameters",
+            "homepage": null,
             "id": 52310392,
             "language": null,
+            "license": "BSD-2-Clause",
             "last_commit": "2018-07-09T21:10:27Z",
+            "open_issues": 7,
             "owner": "forresti",
             "repo": "SqueezeNet",
-            "stars": 2218
+            "stars": 2218,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -122,12 +176,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Densely Connected Convolutional Networks, In CVPR 2017 (Best Paper Award).",
+            "homepage": null,
             "id": 66501243,
             "language": "Lua",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-01-09T13:15:40Z",
+            "open_issues": 30,
             "owner": "liuzhuang13",
             "repo": "DenseNet",
-            "stars": 4869
+            "stars": 4869,
+            "topics": [
+              "deep-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -138,12 +199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of Xception:  Deep Learning with Depthwise Separable Convolutions",
+            "homepage": null,
             "id": 118868906,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-16T09:14:24Z",
+            "open_issues": 0,
             "owner": "tstandley",
             "repo": "Xception-PyTorch",
-            "stars": 264
+            "stars": 264,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -154,12 +220,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of MobileNet V1, V2, V3",
+            "homepage": null,
             "id": 243254998,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-01T01:11:50Z",
+            "open_issues": 0,
             "owner": "jmjeon2",
             "repo": "MobileNet-Pytorch",
-            "stars": 72
+            "stars": 72,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -170,12 +241,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ShuffleNet in PyTorch. Based on https://arxiv.org/abs/1707.01083",
+            "homepage": null,
             "id": 97298151,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2017-12-20T12:50:24Z",
+            "open_issues": 6,
             "owner": "jaxony",
             "repo": "ShuffleNet",
-            "stars": 296
+            "stars": 296,
+            "topics": [
+              "artificial-intelligence",
+              "convolution",
+              "deep-learning",
+              "neural-network",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -186,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pretrained models for TensorFlow.js",
+            "homepage": "https://js.tensorflow.org",
             "id": 127968704,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-23T19:24:12Z",
+            "open_issues": 280,
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14796
+            "stars": 14796,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -202,12 +289,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "reimplementation of \"Learning Transferable Architectures for Scalable Image Recognition\" using mnist dataset, include controller",
+            "homepage": null,
             "id": 249641601,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-03-30T09:33:00Z",
+            "open_issues": 2,
             "owner": "MarSaKi",
             "repo": "nasnet",
-            "stars": 45
+            "stars": 45,
+            "topics": [
+              "automl",
+              "image-classification",
+              "nasnet",
+              "neural-architecture-search",
+              "pytorch-implementation"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -218,12 +316,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Squeeze-and-Excitation Networks",
+            "homepage": null,
             "id": 100795326,
             "language": "Cuda",
+            "license": "Apache-2.0",
             "last_commit": "2019-02-25T08:41:20Z",
+            "open_issues": 16,
             "owner": "hujie-frank",
             "repo": "SENet",
-            "stars": 3646
+            "stars": 3646,
+            "topics": [
+              "caffe",
+              "gpu",
+              "senet"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -234,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a pytorch code about Residual Attention Network.  This code is based on two  projects from",
+            "homepage": null,
             "id": 124525866,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-10-29T05:56:01Z",
+            "open_issues": 20,
             "owner": "tengshaofeng",
             "repo": "ResidualAttentionNetwork-pytorch",
-            "stars": 685
+            "stars": 685,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -250,12 +362,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implement the paper \"Self-Attention with Relative Position Representations\"",
+            "homepage": null,
             "id": 327741989,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-08T01:18:54Z",
+            "open_issues": 4,
             "owner": "evelinehong",
             "repo": "Transformer_Relative_Position_PyTorch",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -266,12 +383,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CBAM: Convolutional Block Attention Module for CIFAR10 on ResNet backbone with Pytorch",
+            "homepage": null,
             "id": 215145846,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-10-18T12:42:21Z",
+            "open_issues": 2,
             "owner": "elbuco1",
             "repo": "CBAM",
-            "stars": 132
+            "stars": 132,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -282,12 +404,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of EfficientNet",
+            "homepage": null,
             "id": 189350661,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-08T12:30:25Z",
+            "open_issues": 167,
             "owner": "lukemelas",
             "repo": "EfficientNet-PyTorch",
-            "stars": 8222
+            "stars": 8222,
+            "topics": [
+              "efficientnet-pytorch",
+              "feature-extraction",
+              "imagenet",
+              "pretrained-models"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -298,12 +430,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 306018946,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-01T21:36:15Z",
+            "open_issues": 139,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12683
+            "stars": 12684,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -314,12 +451,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Official DeiT repository",
+            "homepage": null,
             "id": 323966500,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-15T13:20:37Z",
+            "open_issues": 20,
             "owner": "facebookresearch",
             "repo": "deit",
-            "stars": 4355
+            "stars": 4355,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -330,12 +472,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of PVT series",
+            "homepage": null,
             "id": 341748701,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-27T08:47:14Z",
+            "open_issues": 41,
             "owner": "whai362",
             "repo": "PVT",
-            "stars": 1900
+            "stars": 1900,
+            "topics": [
+              "backbone",
+              "detection",
+              "pvt",
+              "pvtv2",
+              "segmentation",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -346,12 +500,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ICCV2021, Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet",
+            "homepage": null,
             "id": 332114633,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2023-10-27T19:00:24Z",
+            "open_issues": 23,
             "owner": "yitu-opensource",
             "repo": "T2T-ViT",
-            "stars": 1191
+            "stars": 1191,
+            "topics": [
+              "t2t-transformer",
+              "vision-transformer",
+              "vit"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -362,12 +525,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 350903303,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-18T15:03:53Z",
+            "open_issues": 12,
             "owner": "zhoudaquan",
             "repo": "dvit_repo",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -378,12 +546,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an official implementation of CvT: Introducing Convolutions to Vision Transformers.",
+            "homepage": null,
             "id": 370805731,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-16T08:07:07Z",
+            "open_issues": 22,
             "owner": "microsoft",
             "repo": "CvT",
-            "stars": 606
+            "stars": 606,
+            "topics": [
+              "classification",
+              "computer-vision",
+              "cvt",
+              "deep-learning",
+              "imagenet"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -394,12 +573,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Official implementation of CrossViT. https://arxiv.org/abs/2103.14899",
+            "homepage": null,
             "id": 391188495,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-12T15:13:20Z",
+            "open_issues": 7,
             "owner": "IBM",
             "repo": "CrossViT",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "multi-scale-features",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -410,12 +599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2021 Spotlight] Official code for \"Focal Self-attention for Local-Global Interactions in Vision Transformers\"",
+            "homepage": null,
             "id": 384661236,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-27T05:21:56Z",
+            "open_issues": 18,
             "owner": "microsoft",
             "repo": "Focal-Transformer",
-            "stars": 559
+            "stars": 559,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -426,12 +620,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an official implementation for \"Swin Transformer: Hierarchical Vision Transformer using Shifted Windows\".",
+            "homepage": "https://arxiv.org/abs/2103.14030",
             "id": 351432397,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-24T17:09:57Z",
+            "open_issues": 201,
             "owner": "microsoft",
             "repo": "Swin-Transformer",
-            "stars": 16055
+            "stars": 16055,
+            "topics": [
+              "ade20k",
+              "image-classification",
+              "imagenet",
+              "mask-rcnn",
+              "mscoco",
+              "object-detection",
+              "semantic-segmentation",
+              "swin-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -442,12 +650,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code release for ConvNeXt model",
+            "homepage": null,
             "id": 444995502,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-08T14:23:08Z",
+            "open_issues": 57,
             "owner": "facebookresearch",
             "repo": "ConvNeXt",
-            "stars": 6415
+            "stars": 6415,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -458,12 +671,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Code release for ConvNeXt V2 model",
+            "homepage": null,
             "id": 583488732,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-14T15:00:28Z",
+            "open_issues": 62,
             "owner": "facebookresearch",
             "repo": "ConvNeXt-V2",
-            "stars": 2069
+            "stars": 2069,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         }
@@ -480,12 +698,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "目标检测 - R-CNN算法实现",
+            "homepage": null,
             "id": 242461146,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-03T21:35:47Z",
+            "open_issues": 12,
             "owner": "object-detection-algorithm",
             "repo": "R-CNN",
-            "stars": 194
+            "stars": 194,
+            "topics": [
+              "alexnet",
+              "bounding-box-regression",
+              "non-maximum-suppression",
+              "numpy",
+              "object-detection",
+              "pascal-voc",
+              "pytorch",
+              "r-cnn",
+              "selectivesearch",
+              "svm"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -496,12 +730,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A faster pytorch implementation of faster r-cnn",
+            "homepage": null,
             "id": 99269272,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-05-20T09:01:28Z",
+            "open_issues": 422,
             "owner": "jwyang",
             "repo": "faster-rcnn.pytorch",
-            "stars": 7858
+            "stars": 7858,
+            "topics": [
+              "faster-rcnn",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -512,12 +754,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yolov1 pytorch implement",
+            "homepage": null,
             "id": 133299605,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-04-21T12:44:50Z",
+            "open_issues": 8,
             "owner": "Tshzzz",
             "repo": "pytorch_yolov1",
-            "stars": 58
+            "stars": 58,
+            "topics": [
+              "object-detection",
+              "pytorch-yolov1",
+              "yolo",
+              "yolov1-pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -528,12 +780,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch Implementation of Single Shot MultiBox Detector",
+            "homepage": null,
             "id": 81275248,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-29T03:19:26Z",
+            "open_issues": 380,
             "owner": "amdegroot",
             "repo": "ssd.pytorch",
-            "stars": 5221
+            "stars": 5221,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "image-recognition",
+              "machine-learning",
+              "object-detection",
+              "pytorch",
+              "ssd",
+              "webcam"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -544,12 +810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of Feature Pyramid Network (FPN) for Object Detection",
+            "homepage": null,
             "id": 117049638,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-01-11T08:39:07Z",
+            "open_issues": 48,
             "owner": "jwyang",
             "repo": "fpn.pytorch",
-            "stars": 970
+            "stars": 970,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -560,12 +831,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Pytorch implementation of RetinaNet object detection.",
+            "homepage": null,
             "id": 130927929,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-29T14:16:18Z",
+            "open_issues": 148,
             "owner": "yhenon",
             "repo": "pytorch-retinanet",
-            "stars": 2205
+            "stars": 2205,
+            "topics": [
+              "python",
+              "pytorch",
+              "retinanet"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -576,12 +856,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.",
+            "homepage": null,
             "id": 105919803,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-20T09:13:34Z",
+            "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26359
+            "stars": 26358,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -592,12 +877,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of the YOLO v3 object detection algorithm",
+            "homepage": null,
             "id": 128474296,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-16T12:30:23Z",
+            "open_issues": 112,
             "owner": "ayooshkathuria",
             "repo": "pytorch-yolo-v3",
-            "stars": 3312
+            "stars": 3312,
+            "topics": [
+              "object-detection",
+              "pytorch",
+              "yolo",
+              "yolov3"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -608,12 +903,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Single-Shot Refinement Neural Network for Object Detection, CVPR, 2018",
+            "homepage": null,
             "id": 111206760,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-03-18T12:42:45Z",
+            "open_issues": 4,
             "owner": "sfzhang15",
             "repo": "RefineDet",
-            "stars": 1424
+            "stars": 1424,
+            "topics": [
+              "object-detection"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -624,12 +926,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network",
+            "homepage": null,
             "id": 148000383,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-11-14T10:21:38Z",
+            "open_issues": 72,
             "owner": "VDIGPKU",
             "repo": "M2Det",
-            "stars": 1438
+            "stars": 1438,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -640,12 +947,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Codes for paper \"Mask Scoring R-CNN\".",
+            "homepage": null,
             "id": 172831315,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-06T08:07:33Z",
+            "open_issues": 70,
             "owner": "zjhuang22",
             "repo": "maskscoring_rcnn",
-            "stars": 1895
+            "stars": 1895,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -656,12 +968,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch Implementation of Feature Selective Anchor-Free Module for Single-Shot Object Detection (CVPR'19)",
+            "homepage": null,
             "id": 209993124,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-26T17:18:44Z",
+            "open_issues": 5,
             "owner": "hdjang",
             "repo": "Feature-Selective-Anchor-Free-Module-for-Single-Shot-Object-Detection",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "cvpr2019",
+              "fsaf",
+              "mmdetection",
+              "pytorch",
+              "retinanet"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -672,12 +995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The code and models for paper: \"ScratchDet: Exploring to Train Single-Shot Object Detectors from Scratch\"",
+            "homepage": null,
             "id": 153621171,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-06-16T15:47:34Z",
+            "open_issues": 14,
             "owner": "KimSoybean",
             "repo": "ScratchDet",
-            "stars": 226
+            "stars": 226,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         }
@@ -694,12 +1022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for  ICLR 2015 deeplab-v1 paper \"Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs\"",
+            "homepage": null,
             "id": 220493299,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-01T13:49:48Z",
+            "open_issues": 5,
             "owner": "wangleihitcs",
             "repo": "DeepLab-V1-PyTorch",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -710,12 +1043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for  ICLR 2015 deeplab-v1 paper \"Semantic Image Segmentation with Deep Convolutional Nets and Fully Connected CRFs\"",
+            "homepage": null,
             "id": 220493299,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-01T13:49:48Z",
+            "open_issues": 5,
             "owner": "wangleihitcs",
             "repo": "DeepLab-V1-PyTorch",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -726,12 +1064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeconvNet : Learning Deconvolution Network for Semantic Segmentation",
+            "homepage": null,
             "id": 37599527,
             "language": "Matlab",
+            "license": "NOASSERTION",
             "last_commit": "2015-06-23T08:26:49Z",
+            "open_issues": 11,
             "owner": "HyeonwooNoh",
             "repo": "DeconvNet",
-            "stars": 327
+            "stars": 327,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -742,12 +1085,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of the U-Net for image semantic segmentation with high quality images",
+            "homepage": null,
             "id": 100485912,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-11T03:00:15Z",
+            "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11617
+            "stars": 11617,
+            "topics": [
+              "convolutional-networks",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "kaggle",
+              "pytorch",
+              "pytorch-unet",
+              "semantic-segmentation",
+              "tensorboard",
+              "unet",
+              "wandb",
+              "weights-and-biases"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -758,12 +1118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dilated Residual Networks",
+            "homepage": "https://www.vis.xyz/pub/drn",
             "id": 103090362,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2020-03-09T19:11:52Z",
+            "open_issues": 31,
             "owner": "fyu",
             "repo": "drn",
-            "stars": 1102
+            "stars": 1102,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -774,12 +1139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 61304253,
             "language": "Lua",
+            "license": null,
             "last_commit": "2017-06-26T18:15:27Z",
+            "open_issues": 14,
             "owner": "e-lab",
             "repo": "ENet-training",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -790,12 +1160,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Supervisely SDK for Python - convenient way to automate, customize and extend Supervisely Platform for your computer vision task ",
+            "homepage": "https://supervisely.com",
             "id": 140302908,
             "language": "Python",
-            "last_commit": "2026-08-28T09:37:50Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:15:20Z",
+            "open_issues": 76,
             "owner": "supervisely",
             "repo": "supervisely",
-            "stars": 541
+            "stars": 541,
+            "topics": [
+              "ai",
+              "deep-learning",
+              "neural-networks",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -806,12 +1186,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":art: Semantic segmentation models, datasets and losses implemented in PyTorch.",
+            "homepage": null,
             "id": 196891428,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-02-23T19:05:28Z",
+            "open_issues": 16,
             "owner": "yassouali",
             "repo": "pytorch-segmentation",
-            "stars": 1818
+            "stars": 1818,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "semantic-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -822,12 +1211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pyramid Scene Parsing Network, CVPR2017.",
+            "homepage": "https://hszhao.github.io/projects/pspnet",
             "id": 75537029,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-04-15T20:41:57Z",
+            "open_issues": 78,
             "owner": "hszhao",
             "repo": "PSPNet",
-            "stars": 1662
+            "stars": 1662,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -838,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 90158359,
             "language": "Lua",
+            "license": null,
             "last_commit": "2017-08-07T18:58:00Z",
+            "open_issues": 4,
             "owner": "e-lab",
             "repo": "LinkNet",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -854,12 +1253,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":art: Semantic segmentation models, datasets and losses implemented in PyTorch.",
+            "homepage": null,
             "id": 196891428,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2025-02-23T19:05:28Z",
+            "open_issues": 16,
             "owner": "yassouali",
             "repo": "pytorch-segmentation",
-            "stars": 1818
+            "stars": 1818,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "semantic-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -870,12 +1278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation",
+            "homepage": "http://preddy5.github.io/2016/03/08/segnet-post.html",
             "id": 53382099,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-03-28T09:08:40Z",
+            "open_issues": 9,
             "owner": "preddy5",
             "repo": "segnet",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -886,12 +1299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RTSeg: Real-time Semantic Segmentation Comparative Study ",
+            "homepage": null,
             "id": 98748253,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-22T01:54:43Z",
+            "open_issues": 22,
             "owner": "MSiam",
             "repo": "TFSegmentation",
-            "stars": 592
+            "stars": 592,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -902,12 +1320,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning to Adapt Structured Output Space for Semantic Segmentation, CVPR 2018 (spotlight)",
+            "homepage": null,
             "id": 122384641,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-08-14T00:12:23Z",
+            "open_issues": 29,
             "owner": "wasidennis",
             "repo": "AdaptSegNet",
-            "stars": 858
+            "stars": 858,
+            "topics": [
+              "adversarial-learning",
+              "computer-vision",
+              "deep-learning",
+              "domain-adaptation",
+              "generative-adversarial-network",
+              "pytorch",
+              "semantic-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -918,12 +1349,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of U-Net, R2U-Net, Attention U-Net, and Attention R2U-Net.",
+            "homepage": null,
             "id": 137727195,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-30T05:20:58Z",
+            "open_issues": 6,
             "owner": "LeeJunHyun",
             "repo": "Image_Segmentation",
-            "stars": 3101
+            "stars": 3101,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -934,12 +1370,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use of Attention Gates in a Convolutional Neural Network / Medical Image Classification and Segmentation",
+            "homepage": null,
             "id": 127816431,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-11-13T15:17:55Z",
+            "open_issues": 0,
             "owner": "ozan-oktay",
             "repo": "Attention-Gated-Networks",
-            "stars": 2064
+            "stars": 2064,
+            "topics": [
+              "attention-gates",
+              "attention-model",
+              "convolutional-neural-networks",
+              "image-classification",
+              "image-segmentation"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -950,12 +1397,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MultiResUNet : Rethinking the U-Net architecture for multimodal biomedical image segmentation",
+            "homepage": null,
             "id": 169124414,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2022-10-24T15:32:06Z",
+            "open_issues": 5,
             "owner": "nibtehaz",
             "repo": "MultiResUNet",
-            "stars": 501
+            "stars": 501,
+            "topics": [
+              "medical-imaging",
+              "segmentation-models"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -966,12 +1421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021 & IJCV 2024] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers",
+            "homepage": null,
             "id": 325519051,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-02T07:59:01Z",
+            "open_issues": 16,
             "owner": "fudan-zvg",
             "repo": "SETR",
-            "stars": 1108
+            "stars": 1108,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -982,12 +1442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of UTNet: A Hybrid Transformer Architecture for Medical Image Segmentation",
+            "homepage": null,
             "id": 411042315,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-06-14T01:26:07Z",
+            "open_issues": 4,
             "owner": "yhygao",
             "repo": "UTNet",
-            "stars": 200
+            "stars": 200,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         }
@@ -1004,12 +1469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 464512092,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-06T03:51:27Z",
+            "open_issues": 2,
             "owner": "liangnjupt",
             "repo": "Multi-Attention-CNN-pytorch",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1020,12 +1490,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pytorch implementation of Recurrent Attention CNN.",
+            "homepage": null,
             "id": 230198423,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-07-28T08:10:45Z",
+            "open_issues": 3,
             "owner": "klrc",
             "repo": "RACNN-pytorch",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1036,12 +1511,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a PyTorch implementation of the ECCV2018 paper \"Learning to Navigate for Fine-grained Classification\" (Ze Yang, Tiange Luo, Dong Wang, Zhiqiang Hu, Jun Gao, Liwei Wang).",
+            "homepage": null,
             "id": 146991225,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-09-22T00:34:47Z",
+            "open_issues": 39,
             "owner": "yangze0930",
             "repo": "NTS-Net",
-            "stars": 459
+            "stars": 459,
+            "topics": [
+              "fine-grained-classification",
+              "fine-grained-recognition",
+              "fine-grained-visual-categorization"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1052,12 +1536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning a Mixture of Granularity-Specific Experts for Fine-Grained Categorization",
+            "homepage": "https://paperswithcode.com/paper/learning-a-mixture-of-granularity-specific",
             "id": 568617335,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-23T05:10:15Z",
+            "open_issues": 0,
             "owner": "WongiPark0628",
             "repo": "MGE_FG",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1068,12 +1557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Destruction and Construction Learning for Fine-grained Image Recognition",
+            "homepage": null,
             "id": 179267676,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-06-10T10:19:23Z",
+            "open_issues": 33,
             "owner": "JDAI-CV",
             "repo": "DCL",
-            "stars": 592
+            "stars": 592,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1084,12 +1578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Look-into-Object: Self-supervised Structure Modeling for Object Recognition (CVPR 2020)",
+            "homepage": null,
             "id": 250489837,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-25T10:57:54Z",
+            "open_issues": 7,
             "owner": "JDAI-CV",
             "repo": "LIO",
-            "stars": 115
+            "stars": 115,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1100,12 +1599,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Progressive Multi-Granularity Training of Jigsaw Patches",
+            "homepage": "https://arxiv.org/pdf/2003.03836v3.pdf",
             "id": 572244888,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-03T08:38:47Z",
+            "open_issues": 0,
             "owner": "WongiPark0628",
             "repo": "PmgWithJigsaw",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1116,12 +1620,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2021] Counterfactual Attention Learning for Fine-Grained Visual Categorization and Re-identification",
+            "homepage": null,
             "id": 397947436,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-05T09:04:47Z",
+            "open_issues": 9,
             "owner": "raoyongming",
             "repo": "CAL",
-            "stars": 159
+            "stars": 159,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1132,12 +1641,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official PyTorch implementation of the paper \"TransFG: A Transformer Architecture for Fine-grained Recognition\" (Ju He, Jie-Neng Chen, Shuai Liu, Adam Kortylewski, Cheng Yang, Yutong Bai, Changhu Wang, Alan Yuille).",
+            "homepage": null,
             "id": 352300645,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-04T06:39:47Z",
+            "open_issues": 32,
             "owner": "TACJu",
             "repo": "TransFG",
-            "stars": 421
+            "stars": 421,
+            "topics": [
+              "fine-grained-recognition"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1148,12 +1664,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ProtoTrees: Neural Prototype Trees for Interpretable Fine-grained Image Recognition, published at CVPR2021",
+            "homepage": null,
             "id": 317840138,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-06-30T06:17:49Z",
+            "open_issues": 4,
             "owner": "M-Nauta",
             "repo": "ProtoTree",
-            "stars": 111
+            "stars": 111,
+            "topics": [
+              "computer-vision",
+              "cvpr2021",
+              "decision-trees",
+              "deep-neural-networks",
+              "explainability",
+              "explainable-ai",
+              "explainable-ml",
+              "fine-grained-classification",
+              "fine-grained-visual-categorization",
+              "interpretability",
+              "interpretable-deep-learning",
+              "interpretable-machine-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1164,12 +1699,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[BMVC 2021] The official PyTorch implementation of Feature Fusion Vision Transformer for Fine-Grained Visual Categorization ",
+            "homepage": null,
             "id": 378478332,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-10-17T02:05:10Z",
+            "open_issues": 6,
             "owner": "Markin-Wang",
             "repo": "FFVT",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "fine-grained-classification",
+              "fine-grained-visual-categorization",
+              "image-classification"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1180,12 +1724,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation for \"A Novel Plug-in Module for Fine-Grained Visual Classification\". fine-grained visual classification task.",
+            "homepage": null,
             "id": 457212708,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-04-01T08:53:45Z",
+            "open_issues": 24,
             "owner": "chou141253",
             "repo": "FGVC-PIM",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "efficientnet",
+              "fgvc",
+              "fine-grained-visual-categorization",
+              "resnet",
+              "swin-transformer",
+              "vision-transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1196,12 +1752,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 467513917,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-03-08T14:34:08Z",
+            "open_issues": 1,
             "owner": "btbuIntelliSense",
             "repo": "Fe-net",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1212,12 +1773,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of \"MetaFormer: A Unified Meta Framework for Fine-Grained Recognition\". A reference PyTorch implementation of “CoAtNet: Marrying Convolution and Attention for All Data Sizes”",
+            "homepage": null,
             "id": 466428937,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-04-24T13:25:03Z",
+            "open_issues": 19,
             "owner": "dqshuai",
             "repo": "MetaFormer",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "fine-grained-classification",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         }
@@ -1234,12 +1803,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Example of one shot learning and few shot learning with omniglot dataset.",
+            "homepage": null,
             "id": 326896992,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-04-19T02:23:18Z",
+            "open_issues": 0,
             "owner": "SoongE",
             "repo": "siamese-one-shot-pytorch",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "fewshot-learning",
+              "omniglot",
+              "oneshot-learning",
+              "siamese-network"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1250,12 +1829,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Presenting Low-shot Visual Recognition by Shrinking and Hallucinating Features",
+            "homepage": null,
             "id": 92451791,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-30T20:51:44Z",
+            "open_issues": 10,
             "owner": "facebookresearch",
             "repo": "low-shot-shrink-hallucinate",
-            "stars": 311
+            "stars": 311,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1266,12 +1850,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"Learning to learn by gradient descent by gradient descent \"by PyTorch -- a simple re-implementation.",
+            "homepage": null,
             "id": 160516857,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-11-05T08:20:00Z",
+            "open_issues": 4,
             "owner": "yangsenius",
             "repo": "learning-to-learn-by-pytorch",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "gradient-descent",
+              "learning-to-learn",
+              "meta-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1282,12 +1875,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "One-shot Learning with Memory-Augmented Neural Networks",
+            "homepage": null,
             "id": 60089526,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-12-04T21:10:13Z",
+            "open_issues": 7,
             "owner": "tristandeleu",
             "repo": "ntm-one-shot",
-            "stars": 422
+            "stars": 422,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1298,12 +1896,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of \"A Simple Neural Attentive Meta-Learner\" (SNAIL, https://arxiv.org/pdf/1707.03141.pdf) in PyTorch",
+            "homepage": null,
             "id": 134166699,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-07-06T00:29:24Z",
+            "open_issues": 3,
             "owner": "eambutu",
             "repo": "snail-pytorch",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "cnn",
+              "python",
+              "pytorch",
+              "snail"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1314,12 +1922,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the NeurIPS 2017 Paper \"Prototypical Networks for Few-shot Learning\"",
+            "homepage": null,
             "id": 109552139,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-28T09:22:04Z",
+            "open_issues": 26,
             "owner": "jakesnell",
             "repo": "prototypical-networks",
-            "stars": 1235
+            "stars": 1235,
+            "topics": [
+              "deep-learning",
+              "few-shot",
+              "metric-learning",
+              "nips-2017",
+              "omniglot",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1330,12 +1950,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch code for CVPR 2018 paper: Learning to Compare: Relation Network for Few-Shot Learning (Few-Shot Learning part)",
+            "homepage": null,
             "id": 127135121,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-10-22T03:19:44Z",
+            "open_issues": 33,
             "owner": "floodsung",
             "repo": "LearningToCompare_FSL",
-            "stars": 1076
+            "stars": 1076,
+            "topics": [
+              "few-shot-learning",
+              "meta-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1346,12 +1974,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repo contains the source code accompanying a scientific paper with the same name.",
+            "homepage": null,
             "id": 70565177,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2021-11-01T17:26:32Z",
+            "open_issues": 2,
             "owner": "twitter-research",
             "repo": "meta-learning-lstm",
-            "stars": 380
+            "stars": 380,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1362,12 +1995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks\"",
+            "homepage": null,
             "id": 94658530,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-01-19T22:05:37Z",
+            "open_issues": 46,
             "owner": "cbfinn",
             "repo": "maml",
-            "stars": 2727
+            "stars": 2727,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1378,12 +2016,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch Library for Meta-learning Research",
+            "homepage": "http://learn2learn.net",
             "id": 201314421,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-16T20:53:41Z",
+            "open_issues": 34,
             "owner": "learnables",
             "repo": "learn2learn",
-            "stars": 2894
+            "stars": 2894,
+            "topics": [
+              "few-shot",
+              "finetuning",
+              "learn2learn",
+              "learning2learn",
+              "maml",
+              "meta-descent",
+              "meta-learning",
+              "meta-optimization",
+              "meta-rl",
+              "metalearning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1394,12 +2049,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR'19] Meta-learning with differentiable closed-form solvers",
+            "homepage": "http://www.robots.ox.ac.uk/~luca/r2d2.html",
             "id": 134299300,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-12-03T12:41:59Z",
+            "open_issues": 1,
             "owner": "bertinetto",
             "repo": "r2d2",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "classification",
+              "computer-vision",
+              "deep-learning",
+              "few-shot-learning",
+              "iclr2019",
+              "machine-learning",
+              "meta-learning",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1410,12 +2079,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meta-Learning with Differentiable Convex Optimization (CVPR 2019 Oral)",
+            "homepage": null,
             "id": 155912925,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-25T10:15:57Z",
+            "open_issues": 16,
             "owner": "kjunelee",
             "repo": "MetaOptNet",
-            "stars": 543
+            "stars": 543,
+            "topics": [
+              "convex-optimization",
+              "cvpr2019",
+              "few-shot",
+              "few-shot-learning",
+              "few-shot-recognition",
+              "image-classification",
+              "meta-learning",
+              "metalearning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         }
@@ -1432,12 +2115,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of \"Unsupervised Visual Representation Learning by Context Prediction\" by C. Doersh, A. Gupta and A. A. Efros",
+            "homepage": null,
             "id": 284673094,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2021-11-18T10:04:09Z",
+            "open_issues": 0,
             "owner": "abhisheksambyal",
             "repo": "Self-supervised-learning-by-context-prediction",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "context-prediction",
+              "deep-learning",
+              "pytorch",
+              "self-supervised-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1448,12 +2142,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation of the method from the paper \"Unsupervised Learning of Visual Representations by Solving Jigsaw Puzzles\"",
+            "homepage": null,
             "id": 103534830,
             "language": "Python",
+            "license": null,
             "last_commit": "2018-06-20T12:37:04Z",
+            "open_issues": 8,
             "owner": "bbrattoli",
             "repo": "JigsawPuzzlePytorch",
-            "stars": 180
+            "stars": 180,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1464,12 +2163,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722",
+            "homepage": null,
             "id": 248087594,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-03T19:40:18Z",
+            "open_issues": 61,
             "owner": "facebookresearch",
             "repo": "moco",
-            "stars": 5136
+            "stars": 5136,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1480,12 +2184,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 167518008,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-13T11:26:24Z",
+            "open_issues": 1,
             "owner": "google",
             "repo": "revisiting-self-supervised",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1496,12 +2205,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Implementation of the paper Self-Supervised Learning of Pretext-Invariant Representations ",
+            "homepage": null,
             "id": 240972151,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-09-09T17:21:39Z",
+            "open_issues": 0,
             "owner": "akwasigroch",
             "repo": "Pretext-Invariant-Representations",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "computer-vision",
+              "deep-learning",
+              "machine-learning",
+              "self-supervised",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1512,12 +2232,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners",
+            "homepage": "https://arxiv.org/abs/2006.10029",
             "id": 246357476,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-22T04:42:53Z",
+            "open_issues": 71,
             "owner": "google-research",
             "repo": "simclr",
-            "stars": 4502
+            "stars": 4502,
+            "topics": [
+              "computer-vision",
+              "contrastive-learning",
+              "representation-learning",
+              "self-supervised-learning",
+              "simclr",
+              "simclrv2",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1528,12 +2261,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners",
+            "homepage": "https://arxiv.org/abs/2006.10029",
             "id": 246357476,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-22T04:42:53Z",
+            "open_issues": 71,
             "owner": "google-research",
             "repo": "simclr",
-            "stars": 4502
+            "stars": 4502,
+            "topics": [
+              "computer-vision",
+              "contrastive-learning",
+              "representation-learning",
+              "self-supervised-learning",
+              "simclr",
+              "simclrv2",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1544,12 +2290,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners",
+            "homepage": "https://arxiv.org/abs/2006.10029",
             "id": 246357476,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-22T04:42:53Z",
+            "open_issues": 71,
             "owner": "google-research",
             "repo": "simclr",
-            "stars": 4502
+            "stars": 4502,
+            "topics": [
+              "computer-vision",
+              "contrastive-learning",
+              "representation-learning",
+              "self-supervised-learning",
+              "simclr",
+              "simclrv2",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1560,12 +2319,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MoCo v2 Pytorch tutorial, https://arxiv.org/abs/2003.04297",
+            "homepage": null,
             "id": 385157471,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2021-07-12T07:47:10Z",
+            "open_issues": 2,
             "owner": "Seonghoon-Yu",
             "repo": "MoCov2_Pytorch_tutorial",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "deep-learning",
+              "moco",
+              "mocov2",
+              "pytorch",
+              "self-supervised",
+              "self-supervised-learning",
+              "tutirial"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1576,12 +2348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+            "homepage": null,
             "id": 165826654,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-17T13:51:27Z",
+            "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15170
+            "stars": 15173,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1592,12 +2369,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PyTorch implementation of SimSiam https//arxiv.org/abs/2011.10566",
+            "homepage": null,
             "id": 352746057,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-26T11:34:46Z",
+            "open_issues": 13,
             "owner": "facebookresearch",
             "repo": "simsiam",
-            "stars": 1237
+            "stars": 1237,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1608,12 +2390,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PyTorch implementation of SwAV https//arxiv.org/abs/2006.09882",
+            "homepage": null,
             "id": 280260739,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-13T16:40:34Z",
+            "open_issues": 41,
             "owner": "facebookresearch",
             "repo": "swav",
-            "stars": 2096
+            "stars": 2096,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1624,12 +2411,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PyTorch implementation of Barlow Twins.",
+            "homepage": null,
             "id": 344510921,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-03-03T02:59:31Z",
+            "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "barlowtwins",
-            "stars": 1017
+            "stars": 1017,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1640,12 +2432,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "VICReg official code base",
+            "homepage": null,
             "id": 464527925,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-06T16:05:06Z",
+            "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "vicreg",
-            "stars": 577
+            "stars": 577,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1656,12 +2453,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code for CVPR 2021 oral paper: Jigsaw Clustering for Unsupervised Visual Representation Learning",
+            "homepage": null,
             "id": 351648816,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-05-11T07:40:18Z",
+            "open_issues": 3,
             "owner": "JIA-Lab-research",
             "repo": "JigsawClustering",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1672,12 +2474,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+            "homepage": null,
             "id": 435653386,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-23T18:15:40Z",
+            "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8370
+            "stars": 8370,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1688,12 +2495,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "PyTorch implementation of MAE https//arxiv.org/abs/2111.06377",
+            "homepage": null,
             "id": 435653386,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-23T18:15:40Z",
+            "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8370
+            "stars": 8370,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1704,12 +2516,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "iBOT :robot:: Image BERT Pre-Training with Online Tokenizer (ICLR 2022)",
+            "homepage": "https://arxiv.org/abs/2111.07832",
             "id": 436574334,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2022-04-14T12:32:13Z",
+            "open_issues": 8,
             "owner": "bytedance",
             "repo": "ibot",
-            "stars": 778
+            "stars": 778,
+            "topics": [
+              "ibot",
+              "research",
+              "ssl"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1720,12 +2541,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch Repository of \"Tailoring Self-Supervision for Supervised Learning\" (ECCV 2022 Paper)",
+            "homepage": "https://arxiv.org/abs/2207.10023",
             "id": 510294462,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-07-28T16:10:44Z",
+            "open_issues": 0,
             "owner": "wjun0830",
             "repo": "Localizable-Rotation",
-            "stars": 30
+            "stars": 30,
+            "topics": [
+              "data-augmentation",
+              "deep-learning",
+              "long-tailed-recognition",
+              "model-robustness",
+              "out-of-distribution-detection",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1736,12 +2569,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+            "homepage": "https://aka.ms/GeneralAI",
             "id": 198350484,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T08:16:01Z",
+            "open_issues": 684,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22196
+            "stars": 22196,
+            "topics": [
+              "beit",
+              "beit-3",
+              "bitnet",
+              "deepnet",
+              "document-ai",
+              "foundation-models",
+              "kosmos",
+              "kosmos-1",
+              "layoutlm",
+              "layoutxlm",
+              "llm",
+              "minilm",
+              "mllm",
+              "multimodal",
+              "nlp",
+              "pre-trained-model",
+              "textdiffuser",
+              "trocr",
+              "unilm",
+              "xlm-e"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1752,12 +2611,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Denoising Masked Autoencoders Help Robust Classification.",
+            "homepage": "https://arxiv.org/abs/2210.06983",
             "id": 542996441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-04T11:45:30Z",
+            "open_issues": 1,
             "owner": "quanlin-wu",
             "repo": "dmae",
-            "stars": 67
+            "stars": 67,
+            "topics": [
+              "pre-training",
+              "robustness-certification",
+              "self-supervised-learning",
+              "transformer"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1768,12 +2637,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR'23 Spotlight🔥] The first successful BERT/MAE-style pretraining on any convolutional network; Pytorch impl. of \"Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling\"",
+            "homepage": "https://arxiv.org/abs/2301.03580",
             "id": 585553796,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-23T06:15:47Z",
+            "open_issues": 16,
             "owner": "keyu-tian",
             "repo": "SparK",
-            "stars": 1376
+            "stars": 1376,
+            "topics": [
+              "bert",
+              "cnn",
+              "convnet",
+              "convolutional-neural-networks",
+              "deep-learning",
+              "iclr",
+              "iclr2023",
+              "instance-segmentation",
+              "mae",
+              "mask-rcnn",
+              "masked-autoencoder",
+              "masked-image-modeling",
+              "object-detection",
+              "pre-trained-model",
+              "pretrain",
+              "pretraining",
+              "pytorch",
+              "self-supervised-learning",
+              "sparse-convolution",
+              "ssl"
+            ]
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1784,12 +2679,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The source code of ICLR2023 paper: Progressive Compressed Autoencoder for Self-supervised Representation Learning",
+            "homepage": null,
             "id": 607131357,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-10-26T02:37:42Z",
+            "open_issues": 0,
             "owner": "caddyless",
             "repo": "PCAE",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         },
@@ -1800,12 +2700,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 608050521,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-03-01T08:05:30Z",
+            "open_issues": 7,
             "owner": "zhangxiaosong18",
             "repo": "hivit",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
         }
@@ -1814,15 +2719,35 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:10:14.955Z",
+    "last_updated": "2026-08-29T04:58:51.760Z",
     "original_repository_info": {
       "archived": false,
+      "description": " Awesome-ComputerVision",
+      "homepage": null,
       "id": 512830484,
       "language": "Python",
+      "license": "MIT",
       "last_commit": "2023-04-03T16:56:31Z",
+      "open_issues": 2,
       "owner": "WongiPark0628",
       "repo": "Awesome-ComputerVision",
-      "stars": 128
+      "stars": 128,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "collaborate",
+        "computer-vision",
+        "deep-learning",
+        "educative",
+        "fgvc",
+        "github-campus-experts",
+        "image-classification",
+        "meta-learning",
+        "object-detection",
+        "review",
+        "segmentation",
+        "self-supervised-learning"
+      ]
     },
     "original_repository_sha": "f88a20185cbb8bc9359de4889688bf5bcccad1bc",
     "enhanced_repository": "enhansome/enhansome-Awesome-ComputerVision",
