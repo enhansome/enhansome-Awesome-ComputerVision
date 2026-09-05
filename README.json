@@ -136,8 +136,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-04T11:37:05Z",
-            "open_issues": 1204,
+            "last_commit": "2026-09-05T11:37:16Z",
+            "open_issues": 1211,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17898,
@@ -325,7 +325,7 @@
             "open_issues": 16,
             "owner": "hujie-frank",
             "repo": "SENet",
-            "stars": 3647,
+            "stars": 3648,
             "topics": [
               "caffe",
               "gpu",
@@ -439,7 +439,7 @@
             "open_issues": 139,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12699,
+            "stars": 12702,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -555,7 +555,7 @@
             "open_issues": 22,
             "owner": "microsoft",
             "repo": "CvT",
-            "stars": 606,
+            "stars": 605,
             "topics": [
               "classification",
               "computer-vision",
@@ -629,7 +629,7 @@
             "open_issues": 202,
             "owner": "microsoft",
             "repo": "Swin-Transformer",
-            "stars": 16065,
+            "stars": 16066,
             "topics": [
               "ade20k",
               "image-classification",
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11629,
+            "stars": 11631,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1520,7 +1520,7 @@
             "open_issues": 39,
             "owner": "yangze0930",
             "repo": "NTS-Net",
-            "stars": 459,
+            "stars": 460,
             "topics": [
               "fine-grained-classification",
               "fine-grained-recognition",
@@ -1959,7 +1959,7 @@
             "open_issues": 33,
             "owner": "floodsung",
             "repo": "LearningToCompare_FSL",
-            "stars": 1075,
+            "stars": 1076,
             "topics": [
               "few-shot-learning",
               "meta-learning"
@@ -1983,7 +1983,7 @@
             "open_issues": 2,
             "owner": "twitter-research",
             "repo": "meta-learning-lstm",
-            "stars": 380,
+            "stars": 379,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2420,7 +2420,7 @@
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "barlowtwins",
-            "stars": 1016,
+            "stars": 1015,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2483,7 +2483,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8366,
+            "stars": 8365,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2504,7 +2504,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8366,
+            "stars": 8365,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 684,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22202,
+            "stars": 22204,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:14:03.225Z",
+    "last_updated": "2026-09-05T13:24:01.449Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
