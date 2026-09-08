@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-07T11:37:39Z",
+            "last_commit": "2026-09-08T11:37:02Z",
             "open_issues": 1219,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17898,
+            "stars": 17899,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -413,7 +413,7 @@
             "open_issues": 167,
             "owner": "lukemelas",
             "repo": "EfficientNet-PyTorch",
-            "stars": 8219,
+            "stars": 8218,
             "topics": [
               "efficientnet-pytorch",
               "feature-extraction",
@@ -439,7 +439,7 @@
             "open_issues": 139,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12704,
+            "stars": 12702,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -481,7 +481,7 @@
             "open_issues": 41,
             "owner": "whai362",
             "repo": "PVT",
-            "stars": 1901,
+            "stars": 1902,
             "topics": [
               "backbone",
               "detection",
@@ -506,7 +506,7 @@
             "language": "Jupyter Notebook",
             "license": "NOASSERTION",
             "last_commit": "2023-10-27T19:00:24Z",
-            "open_issues": 23,
+            "open_issues": 24,
             "owner": "yitu-opensource",
             "repo": "T2T-ViT",
             "stars": 1191,
@@ -739,7 +739,7 @@
             "open_issues": 422,
             "owner": "jwyang",
             "repo": "faster-rcnn.pytorch",
-            "stars": 7857,
+            "stars": 7856,
             "topics": [
               "faster-rcnn",
               "pytorch"
@@ -789,7 +789,7 @@
             "open_issues": 380,
             "owner": "amdegroot",
             "repo": "ssd.pytorch",
-            "stars": 5221,
+            "stars": 5220,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -819,7 +819,7 @@
             "open_issues": 48,
             "owner": "jwyang",
             "repo": "fpn.pytorch",
-            "stars": 970,
+            "stars": 969,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -840,7 +840,7 @@
             "open_issues": 148,
             "owner": "yhenon",
             "repo": "pytorch-retinanet",
-            "stars": 2204,
+            "stars": 2202,
             "topics": [
               "python",
               "pytorch",
@@ -865,7 +865,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26356,
+            "stars": 26355,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -912,7 +912,7 @@
             "open_issues": 4,
             "owner": "sfzhang15",
             "repo": "RefineDet",
-            "stars": 1424,
+            "stars": 1423,
             "topics": [
               "object-detection"
             ]
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11636,
+            "stars": 11640,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1165,8 +1165,8 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T10:25:58Z",
-            "open_issues": 76,
+            "last_commit": "2026-09-08T12:18:24Z",
+            "open_issues": 78,
             "owner": "supervisely",
             "repo": "supervisely",
             "stars": 542,
@@ -1241,7 +1241,7 @@
             "open_issues": 4,
             "owner": "e-lab",
             "repo": "LinkNet",
-            "stars": 174,
+            "stars": 172,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2004,7 +2004,7 @@
             "open_issues": 46,
             "owner": "cbfinn",
             "repo": "maml",
-            "stars": 2725,
+            "stars": 2724,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2025,7 +2025,7 @@
             "open_issues": 34,
             "owner": "learnables",
             "repo": "learn2learn",
-            "stars": 2894,
+            "stars": 2893,
             "topics": [
               "few-shot",
               "finetuning",
@@ -2151,7 +2151,7 @@
             "open_issues": 8,
             "owner": "bbrattoli",
             "repo": "JigsawPuzzlePytorch",
-            "stars": 180,
+            "stars": 179,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2357,7 +2357,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15185,
+            "stars": 15188,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2399,7 +2399,7 @@
             "open_issues": 41,
             "owner": "facebookresearch",
             "repo": "swav",
-            "stars": 2096,
+            "stars": 2094,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2483,7 +2483,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8364,
+            "stars": 8362,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2504,7 +2504,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8364,
+            "stars": 8362,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2575,7 +2575,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-26T08:16:01Z",
-            "open_issues": 684,
+            "open_issues": 685,
             "owner": "microsoft",
             "repo": "unilm",
             "stars": 22205,
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T15:45:08.451Z",
+    "last_updated": "2026-09-08T14:24:18.799Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
