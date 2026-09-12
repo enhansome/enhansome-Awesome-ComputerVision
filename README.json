@@ -739,7 +739,7 @@
             "open_issues": 422,
             "owner": "jwyang",
             "repo": "faster-rcnn.pytorch",
-            "stars": 7855,
+            "stars": 7856,
             "topics": [
               "faster-rcnn",
               "pytorch"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11646,
+            "stars": 11648,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1165,7 +1165,7 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T10:52:38Z",
+            "last_commit": "2026-09-11T22:25:50Z",
             "open_issues": 80,
             "owner": "supervisely",
             "repo": "supervisely",
@@ -1355,7 +1355,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2023-06-30T05:20:58Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "LeeJunHyun",
             "repo": "Image_Segmentation",
             "stars": 3101,
@@ -2357,7 +2357,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15191,
+            "stars": 15194,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2483,7 +2483,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8362,
+            "stars": 8361,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2504,7 +2504,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8362,
+            "stars": 8361,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 685,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22212,
+            "stars": 22213,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T14:19:17.713Z",
+    "last_updated": "2026-09-12T13:32:17.197Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
