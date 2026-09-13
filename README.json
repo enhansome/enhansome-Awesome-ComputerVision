@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-09T20:00:43Z",
-            "open_issues": 1223,
+            "last_commit": "2026-09-13T11:37:20Z",
+            "open_issues": 1226,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17906,
+            "stars": 17907,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -439,7 +439,7 @@
             "open_issues": 140,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12708,
+            "stars": 12707,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11648,
+            "stars": 11649,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1169,7 +1169,7 @@
             "open_issues": 80,
             "owner": "supervisely",
             "repo": "supervisely",
-            "stars": 543,
+            "stars": 544,
             "topics": [
               "ai",
               "deep-learning",
@@ -1355,7 +1355,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2023-06-30T05:20:58Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "LeeJunHyun",
             "repo": "Image_Segmentation",
             "stars": 3101,
@@ -2025,7 +2025,7 @@
             "open_issues": 34,
             "owner": "learnables",
             "repo": "learn2learn",
-            "stars": 2893,
+            "stars": 2894,
             "topics": [
               "few-shot",
               "finetuning",
@@ -2172,7 +2172,7 @@
             "open_issues": 61,
             "owner": "facebookresearch",
             "repo": "moco",
-            "stars": 5136,
+            "stars": 5135,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2357,7 +2357,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15194,
+            "stars": 15195,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2575,10 +2575,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-26T08:16:01Z",
-            "open_issues": 685,
+            "open_issues": 686,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22213,
+            "stars": 22214,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:32:17.197Z",
+    "last_updated": "2026-09-13T14:15:40.877Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
