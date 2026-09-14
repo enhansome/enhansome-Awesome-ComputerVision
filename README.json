@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-13T11:37:20Z",
-            "open_issues": 1226,
+            "last_commit": "2026-09-14T11:37:54Z",
+            "open_issues": 1224,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17907,
+            "stars": 17909,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -277,7 +277,7 @@
             "open_issues": 280,
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14804,
+            "stars": 14806,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -325,7 +325,7 @@
             "open_issues": 16,
             "owner": "hujie-frank",
             "repo": "SENet",
-            "stars": 3649,
+            "stars": 3650,
             "topics": [
               "caffe",
               "gpu",
@@ -436,10 +436,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-08-01T21:36:15Z",
-            "open_issues": 140,
+            "open_issues": 141,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12707,
+            "stars": 12710,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -478,10 +478,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2022-10-27T08:47:14Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "whai362",
             "repo": "PVT",
-            "stars": 1901,
+            "stars": 1902,
             "topics": [
               "backbone",
               "detection",
@@ -509,7 +509,7 @@
             "open_issues": 24,
             "owner": "yitu-opensource",
             "repo": "T2T-ViT",
-            "stars": 1191,
+            "stars": 1192,
             "topics": [
               "t2t-transformer",
               "vision-transformer",
@@ -552,7 +552,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-05-16T08:07:07Z",
-            "open_issues": 22,
+            "open_issues": 23,
             "owner": "microsoft",
             "repo": "CvT",
             "stars": 605,
@@ -629,7 +629,7 @@
             "open_issues": 202,
             "owner": "microsoft",
             "repo": "Swin-Transformer",
-            "stars": 16071,
+            "stars": 16073,
             "topics": [
               "ade20k",
               "image-classification",
@@ -739,7 +739,7 @@
             "open_issues": 422,
             "owner": "jwyang",
             "repo": "faster-rcnn.pytorch",
-            "stars": 7856,
+            "stars": 7857,
             "topics": [
               "faster-rcnn",
               "pytorch"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11649,
+            "stars": 11652,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1165,7 +1165,7 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T22:25:50Z",
+            "last_commit": "2026-09-14T08:26:31Z",
             "open_issues": 80,
             "owner": "supervisely",
             "repo": "supervisely",
@@ -1358,7 +1358,7 @@
             "open_issues": 9,
             "owner": "LeeJunHyun",
             "repo": "Image_Segmentation",
-            "stars": 3101,
+            "stars": 3102,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1779,7 +1779,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2022-04-24T13:25:03Z",
-            "open_issues": 19,
+            "open_issues": 20,
             "owner": "dqshuai",
             "repo": "MetaFormer",
             "stars": 245,
@@ -2354,10 +2354,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-06-17T13:51:27Z",
-            "open_issues": 358,
+            "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15195,
+            "stars": 15197,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 686,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22214,
+            "stars": 22215,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T14:15:40.877Z",
+    "last_updated": "2026-09-14T16:18:34.905Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
