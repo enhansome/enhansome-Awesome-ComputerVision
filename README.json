@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-17T11:38:06Z",
+            "last_commit": "2026-09-18T11:37:05Z",
             "open_issues": 1222,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17916,
+            "stars": 17914,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -439,7 +439,7 @@
             "open_issues": 141,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12716,
+            "stars": 12717,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -629,7 +629,7 @@
             "open_issues": 202,
             "owner": "microsoft",
             "repo": "Swin-Transformer",
-            "stars": 16078,
+            "stars": 16080,
             "topics": [
               "ade20k",
               "image-classification",
@@ -659,7 +659,7 @@
             "open_issues": 57,
             "owner": "facebookresearch",
             "repo": "ConvNeXt",
-            "stars": 6413,
+            "stars": 6412,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -789,7 +789,7 @@
             "open_issues": 380,
             "owner": "amdegroot",
             "repo": "ssd.pytorch",
-            "stars": 5222,
+            "stars": 5223,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11661,
+            "stars": 11665,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1165,7 +1165,7 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-17T13:20:35Z",
+            "last_commit": "2026-09-18T09:01:19Z",
             "open_issues": 81,
             "owner": "supervisely",
             "repo": "supervisely",
@@ -1379,7 +1379,7 @@
             "open_issues": 0,
             "owner": "ozan-oktay",
             "repo": "Attention-Gated-Networks",
-            "stars": 2065,
+            "stars": 2066,
             "topics": [
               "attention-gates",
               "attention-model",
@@ -1650,7 +1650,7 @@
             "open_issues": 32,
             "owner": "TACJu",
             "repo": "TransFG",
-            "stars": 421,
+            "stars": 422,
             "topics": [
               "fine-grained-recognition"
             ]
@@ -2357,7 +2357,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15201,
+            "stars": 15203,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2420,7 +2420,7 @@
             "open_issues": 8,
             "owner": "facebookresearch",
             "repo": "barlowtwins",
-            "stars": 1015,
+            "stars": 1016,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 686,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22219,
+            "stars": 22220,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:52:39.521Z",
+    "last_updated": "2026-09-18T14:22:15.737Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
