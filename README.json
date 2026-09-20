@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-19T11:37:01Z",
+            "last_commit": "2026-09-20T11:37:05Z",
             "open_issues": 1223,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17916,
+            "stars": 17918,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -185,7 +185,7 @@
             "open_issues": 30,
             "owner": "liuzhuang13",
             "repo": "DenseNet",
-            "stars": 4869,
+            "stars": 4868,
             "topics": [
               "deep-learning"
             ]
@@ -439,7 +439,7 @@
             "open_issues": 141,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12718,
+            "stars": 12717,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -865,7 +865,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26354,
+            "stars": 26353,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11667,
+            "stars": 11668,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1195,7 +1195,7 @@
             "open_issues": 16,
             "owner": "yassouali",
             "repo": "pytorch-segmentation",
-            "stars": 1819,
+            "stars": 1818,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1262,7 +1262,7 @@
             "open_issues": 16,
             "owner": "yassouali",
             "repo": "pytorch-segmentation",
-            "stars": 1819,
+            "stars": 1818,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -2004,7 +2004,7 @@
             "open_issues": 46,
             "owner": "cbfinn",
             "repo": "maml",
-            "stars": 2725,
+            "stars": 2724,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T13:52:23.196Z",
+    "last_updated": "2026-09-20T14:07:32.952Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
@@ -2731,7 +2731,7 @@
       "open_issues": 2,
       "owner": "WongiPark0628",
       "repo": "Awesome-ComputerVision",
-      "stars": 127,
+      "stars": 128,
       "topics": [
         "awesome",
         "awesome-list",
