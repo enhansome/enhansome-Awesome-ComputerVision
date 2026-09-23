@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-22T11:38:44Z",
-            "open_issues": 1223,
+            "last_commit": "2026-09-23T11:38:36Z",
+            "open_issues": 1224,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17925,
+            "stars": 17927,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -277,7 +277,7 @@
             "open_issues": 280,
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14812,
+            "stars": 14813,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -413,7 +413,7 @@
             "open_issues": 167,
             "owner": "lukemelas",
             "repo": "EfficientNet-PyTorch",
-            "stars": 8217,
+            "stars": 8218,
             "topics": [
               "efficientnet-pytorch",
               "feature-extraction",
@@ -439,7 +439,7 @@
             "open_issues": 141,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12719,
+            "stars": 12722,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -460,7 +460,7 @@
             "open_issues": 20,
             "owner": "facebookresearch",
             "repo": "deit",
-            "stars": 4349,
+            "stars": 4348,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -481,7 +481,7 @@
             "open_issues": 42,
             "owner": "whai362",
             "repo": "PVT",
-            "stars": 1903,
+            "stars": 1904,
             "topics": [
               "backbone",
               "detection",
@@ -739,7 +739,7 @@
             "open_issues": 422,
             "owner": "jwyang",
             "repo": "faster-rcnn.pytorch",
-            "stars": 7857,
+            "stars": 7858,
             "topics": [
               "faster-rcnn",
               "pytorch"
@@ -865,7 +865,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26353,
+            "stars": 26354,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11673,
+            "stars": 11676,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1165,11 +1165,11 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-22T14:14:18Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-23T13:49:33Z",
+            "open_issues": 40,
             "owner": "supervisely",
             "repo": "supervisely",
-            "stars": 545,
+            "stars": 544,
             "topics": [
               "ai",
               "deep-learning",
@@ -1358,7 +1358,7 @@
             "open_issues": 10,
             "owner": "LeeJunHyun",
             "repo": "Image_Segmentation",
-            "stars": 3103,
+            "stars": 3104,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1379,7 +1379,7 @@
             "open_issues": 0,
             "owner": "ozan-oktay",
             "repo": "Attention-Gated-Networks",
-            "stars": 2066,
+            "stars": 2065,
             "topics": [
               "attention-gates",
               "attention-model",
@@ -1859,7 +1859,7 @@
             "open_issues": 4,
             "owner": "yangsenius",
             "repo": "learning-to-learn-by-pytorch",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "gradient-descent",
               "learning-to-learn",
@@ -2193,7 +2193,7 @@
             "open_issues": 1,
             "owner": "google",
             "repo": "revisiting-self-supervised",
-            "stars": 351,
+            "stars": 352,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2357,7 +2357,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15202,
+            "stars": 15203,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2378,7 +2378,7 @@
             "open_issues": 13,
             "owner": "facebookresearch",
             "repo": "simsiam",
-            "stars": 1237,
+            "stars": 1236,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22226,
+            "stars": 22228,
             "topics": [
               "beit",
               "beit-3",
@@ -2709,7 +2709,7 @@
             "open_issues": 7,
             "owner": "zhangxiaosong18",
             "repo": "hivit",
-            "stars": 77,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T14:41:41.638Z",
+    "last_updated": "2026-09-23T14:54:19.324Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
