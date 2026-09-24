@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T11:38:36Z",
-            "open_issues": 1224,
+            "last_commit": "2026-09-24T11:38:57Z",
+            "open_issues": 1225,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17927,
+            "stars": 17926,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -439,7 +439,7 @@
             "open_issues": 141,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12722,
+            "stars": 12724,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -680,7 +680,7 @@
             "open_issues": 62,
             "owner": "facebookresearch",
             "repo": "ConvNeXt-V2",
-            "stars": 2068,
+            "stars": 2067,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11676,
+            "stars": 11678,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1165,11 +1165,11 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-23T13:49:33Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-24T13:45:13Z",
+            "open_issues": 41,
             "owner": "supervisely",
             "repo": "supervisely",
-            "stars": 544,
+            "stars": 543,
             "topics": [
               "ai",
               "deep-learning",
@@ -1220,7 +1220,7 @@
             "open_issues": 78,
             "owner": "hszhao",
             "repo": "PSPNet",
-            "stars": 1661,
+            "stars": 1662,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1358,7 +1358,7 @@
             "open_issues": 10,
             "owner": "LeeJunHyun",
             "repo": "Image_Segmentation",
-            "stars": 3104,
+            "stars": 3105,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1403,7 +1403,7 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2022-10-24T15:32:06Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "nibtehaz",
             "repo": "MultiResUNet",
             "stars": 501,
@@ -2357,7 +2357,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15203,
+            "stars": 15205,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:54:19.324Z",
+    "last_updated": "2026-09-24T14:55:19.220Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
