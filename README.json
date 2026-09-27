@@ -136,7 +136,7 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-26T11:36:58Z",
+            "last_commit": "2026-09-27T11:37:12Z",
             "open_issues": 1227,
             "owner": "pytorch",
             "repo": "vision",
@@ -439,7 +439,7 @@
             "open_issues": 141,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12728,
+            "stars": 12727,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -629,7 +629,7 @@
             "open_issues": 202,
             "owner": "microsoft",
             "repo": "Swin-Transformer",
-            "stars": 16082,
+            "stars": 16083,
             "topics": [
               "ade20k",
               "image-classification",
@@ -659,7 +659,7 @@
             "open_issues": 57,
             "owner": "facebookresearch",
             "repo": "ConvNeXt",
-            "stars": 6409,
+            "stars": 6410,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11676,
+            "stars": 11679,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -2357,7 +2357,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15206,
+            "stars": 15207,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2483,7 +2483,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8361,
+            "stars": 8362,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2504,7 +2504,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8361,
+            "stars": 8362,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 687,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22227,
+            "stars": 22226,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T14:21:34.523Z",
+    "last_updated": "2026-09-27T15:05:52.916Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
