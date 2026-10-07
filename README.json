@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-06T11:50:53Z",
-            "open_issues": 1236,
+            "last_commit": "2026-10-07T15:26:55Z",
+            "open_issues": 1235,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17944,
+            "stars": 17943,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -185,7 +185,7 @@
             "open_issues": 30,
             "owner": "liuzhuang13",
             "repo": "DenseNet",
-            "stars": 4871,
+            "stars": 4870,
             "topics": [
               "deep-learning"
             ]
@@ -277,7 +277,7 @@
             "open_issues": 280,
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14807,
+            "stars": 14806,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -392,7 +392,7 @@
             "open_issues": 2,
             "owner": "elbuco1",
             "repo": "CBAM",
-            "stars": 132,
+            "stars": 133,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -659,7 +659,7 @@
             "open_issues": 57,
             "owner": "facebookresearch",
             "repo": "ConvNeXt",
-            "stars": 6409,
+            "stars": 6408,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -865,7 +865,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26350,
+            "stars": 26351,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -953,7 +953,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2020-11-06T08:07:33Z",
-            "open_issues": 70,
+            "open_issues": 69,
             "owner": "zjhuang22",
             "repo": "maskscoring_rcnn",
             "stars": 1893,
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11691,
+            "stars": 11693,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1165,8 +1165,8 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T12:58:01Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-07T14:15:29Z",
+            "open_issues": 36,
             "owner": "supervisely",
             "repo": "supervisely",
             "stars": 544,
@@ -1358,7 +1358,7 @@
             "open_issues": 10,
             "owner": "LeeJunHyun",
             "repo": "Image_Segmentation",
-            "stars": 3102,
+            "stars": 3101,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1430,7 +1430,7 @@
             "open_issues": 16,
             "owner": "fudan-zvg",
             "repo": "SETR",
-            "stars": 1108,
+            "stars": 1109,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2357,7 +2357,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15216,
+            "stars": 15217,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 688,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22227,
+            "stars": 22228,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T16:40:40.982Z",
+    "last_updated": "2026-10-07T17:23:21.157Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
