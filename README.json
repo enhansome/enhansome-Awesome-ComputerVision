@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T11:40:28Z",
-            "open_issues": 1235,
+            "last_commit": "2026-10-10T11:39:48Z",
+            "open_issues": 1236,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17947,
+            "stars": 17950,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -277,7 +277,7 @@
             "open_issues": 280,
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14805,
+            "stars": 14806,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -439,7 +439,7 @@
             "open_issues": 136,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12736,
+            "stars": 12738,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -680,7 +680,7 @@
             "open_issues": 62,
             "owner": "facebookresearch",
             "repo": "ConvNeXt-V2",
-            "stars": 2067,
+            "stars": 2066,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -789,7 +789,7 @@
             "open_issues": 380,
             "owner": "amdegroot",
             "repo": "ssd.pytorch",
-            "stars": 5222,
+            "stars": 5223,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11698,
+            "stars": 11700,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1165,8 +1165,8 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T11:25:28Z",
-            "open_issues": 33,
+            "last_commit": "2026-10-10T14:10:03Z",
+            "open_issues": 34,
             "owner": "supervisely",
             "repo": "supervisely",
             "stars": 545,
@@ -1220,7 +1220,7 @@
             "open_issues": 78,
             "owner": "hszhao",
             "repo": "PSPNet",
-            "stars": 1662,
+            "stars": 1663,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2357,7 +2357,7 @@
             "open_issues": 359,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15226,
+            "stars": 15228,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 688,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22228,
+            "stars": 22229,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T16:57:00.269Z",
+    "last_updated": "2026-10-10T15:49:59.542Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
