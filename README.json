@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-16T11:39:37Z",
-            "open_issues": 1236,
+            "last_commit": "2026-10-17T11:36:22Z",
+            "open_issues": 1239,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17957,
+            "stars": 17958,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -185,7 +185,7 @@
             "open_issues": 30,
             "owner": "liuzhuang13",
             "repo": "DenseNet",
-            "stars": 4871,
+            "stars": 4872,
             "topics": [
               "deep-learning"
             ]
@@ -439,7 +439,7 @@
             "open_issues": 136,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12747,
+            "stars": 12748,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -739,7 +739,7 @@
             "open_issues": 422,
             "owner": "jwyang",
             "repo": "faster-rcnn.pytorch",
-            "stars": 7860,
+            "stars": 7859,
             "topics": [
               "faster-rcnn",
               "pytorch"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11712,
+            "stars": 11713,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -2357,7 +2357,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15234,
+            "stars": 15236,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 689,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22238,
+            "stars": 22239,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T14:44:55.585Z",
+    "last_updated": "2026-10-17T13:37:37.372Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
