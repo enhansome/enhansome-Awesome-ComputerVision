@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-17T11:36:22Z",
-            "open_issues": 1239,
+            "last_commit": "2026-10-18T11:36:44Z",
+            "open_issues": 1240,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17958,
+            "stars": 17960,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -164,7 +164,7 @@
             "open_issues": 7,
             "owner": "forresti",
             "repo": "SqueezeNet",
-            "stars": 2220,
+            "stars": 2221,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -277,7 +277,7 @@
             "open_issues": 280,
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14802,
+            "stars": 14801,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -325,7 +325,7 @@
             "open_issues": 16,
             "owner": "hujie-frank",
             "repo": "SENet",
-            "stars": 3651,
+            "stars": 3652,
             "topics": [
               "caffe",
               "gpu",
@@ -439,7 +439,7 @@
             "open_issues": 136,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12748,
+            "stars": 12747,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -789,7 +789,7 @@
             "open_issues": 380,
             "owner": "amdegroot",
             "repo": "ssd.pytorch",
-            "stars": 5223,
+            "stars": 5224,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -865,7 +865,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26351,
+            "stars": 26348,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11713,
+            "stars": 11714,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1358,7 +1358,7 @@
             "open_issues": 10,
             "owner": "LeeJunHyun",
             "repo": "Image_Segmentation",
-            "stars": 3102,
+            "stars": 3101,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2357,7 +2357,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15236,
+            "stars": 15239,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T13:37:37.372Z",
+    "last_updated": "2026-10-18T13:55:50.404Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
