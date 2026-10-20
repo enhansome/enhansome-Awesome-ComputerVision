@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T11:40:55Z",
+            "last_commit": "2026-10-20T11:40:12Z",
             "open_issues": 1240,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 17961,
+            "stars": 17962,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -277,7 +277,7 @@
             "open_issues": 280,
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14802,
+            "stars": 14805,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -739,7 +739,7 @@
             "open_issues": 422,
             "owner": "jwyang",
             "repo": "faster-rcnn.pytorch",
-            "stars": 7859,
+            "stars": 7858,
             "topics": [
               "faster-rcnn",
               "pytorch"
@@ -865,7 +865,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26347,
+            "stars": 26348,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11717,
+            "stars": 11718,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1379,7 +1379,7 @@
             "open_issues": 0,
             "owner": "ozan-oktay",
             "repo": "Attention-Gated-Networks",
-            "stars": 2065,
+            "stars": 2064,
             "topics": [
               "attention-gates",
               "attention-model",
@@ -1838,7 +1838,7 @@
             "open_issues": 10,
             "owner": "facebookresearch",
             "repo": "low-shot-shrink-hallucinate",
-            "stars": 311,
+            "stars": 310,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1905,7 +1905,7 @@
             "open_issues": 3,
             "owner": "eambutu",
             "repo": "snail-pytorch",
-            "stars": 151,
+            "stars": 150,
             "topics": [
               "cnn",
               "python",
@@ -1931,7 +1931,7 @@
             "open_issues": 26,
             "owner": "jakesnell",
             "repo": "prototypical-networks",
-            "stars": 1235,
+            "stars": 1234,
             "topics": [
               "deep-learning",
               "few-shot",
@@ -2004,7 +2004,7 @@
             "open_issues": 46,
             "owner": "cbfinn",
             "repo": "maml",
-            "stars": 2726,
+            "stars": 2725,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2357,7 +2357,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15240,
+            "stars": 15242,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2441,7 +2441,7 @@
             "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "vicreg",
-            "stars": 577,
+            "stars": 575,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2483,7 +2483,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8361,
+            "stars": 8360,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2504,7 +2504,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8361,
+            "stars": 8360,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 689,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22237,
+            "stars": 22238,
             "topics": [
               "beit",
               "beit-3",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T16:55:40.249Z",
+    "last_updated": "2026-10-20T14:56:51.118Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
