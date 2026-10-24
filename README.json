@@ -136,7 +136,7 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-23T11:41:23Z",
+            "last_commit": "2026-10-24T11:38:04Z",
             "open_issues": 1248,
             "owner": "pytorch",
             "repo": "vision",
@@ -325,7 +325,7 @@
             "open_issues": 16,
             "owner": "hujie-frank",
             "repo": "SENet",
-            "stars": 3652,
+            "stars": 3653,
             "topics": [
               "caffe",
               "gpu",
@@ -371,7 +371,7 @@
             "open_issues": 4,
             "owner": "evelinehong",
             "repo": "Transformer_Relative_Position_PyTorch",
-            "stars": 139,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1094,7 +1094,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11722,
+            "stars": 11723,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1165,7 +1165,7 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T14:41:24Z",
+            "last_commit": "2026-10-23T15:11:04Z",
             "open_issues": 34,
             "owner": "supervisely",
             "repo": "supervisely",
@@ -1192,10 +1192,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2025-02-23T19:05:28Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "yassouali",
             "repo": "pytorch-segmentation",
-            "stars": 1817,
+            "stars": 1818,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1259,10 +1259,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2025-02-23T19:05:28Z",
-            "open_issues": 16,
+            "open_issues": 15,
             "owner": "yassouali",
             "repo": "pytorch-segmentation",
-            "stars": 1817,
+            "stars": 1818,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1422,13 +1422,13 @@
           "repo_info": {
             "archived": false,
             "description": "[CVPR 2021 & IJCV 2024] Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers",
-            "homepage": null,
+            "homepage": "https://logosintelligencelab.github.io/SETR/",
             "id": 325519051,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2024-09-02T07:59:01Z",
+            "last_commit": "2026-10-24T13:52:18Z",
             "open_issues": 16,
-            "owner": "fudan-zvg",
+            "owner": "LogosIntelligenceLab",
             "repo": "SETR",
             "stars": 1109,
             "topics": []
@@ -2357,7 +2357,7 @@
             "open_issues": 358,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15245,
+            "stars": 15247,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2399,7 +2399,7 @@
             "open_issues": 41,
             "owner": "facebookresearch",
             "repo": "swav",
-            "stars": 2093,
+            "stars": 2092,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2462,7 +2462,7 @@
             "open_issues": 3,
             "owner": "JIA-Lab-research",
             "repo": "JigsawClustering",
-            "stars": 77,
+            "stars": 76,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2578,7 +2578,7 @@
             "open_issues": 689,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22235,
+            "stars": 22234,
             "topics": [
               "beit",
               "beit-3",
@@ -2646,7 +2646,7 @@
             "open_issues": 16,
             "owner": "keyu-tian",
             "repo": "SparK",
-            "stars": 1383,
+            "stars": 1384,
             "topics": [
               "bert",
               "cnn",
@@ -2719,7 +2719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:55:37.038Z",
+    "last_updated": "2026-10-24T13:57:22.864Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
