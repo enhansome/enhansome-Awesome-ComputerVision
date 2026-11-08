@@ -136,8 +136,8 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-07T11:34:46Z",
-            "open_issues": 1258,
+            "last_commit": "2026-11-08T11:34:41Z",
+            "open_issues": 1260,
             "owner": "pytorch",
             "repo": "vision",
             "stars": 17991,
@@ -164,7 +164,7 @@
             "open_issues": 7,
             "owner": "forresti",
             "repo": "SqueezeNet",
-            "stars": 2223,
+            "stars": 2224,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -277,7 +277,7 @@
             "open_issues": 279,
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14811,
+            "stars": 14812,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -460,7 +460,7 @@
             "open_issues": 20,
             "owner": "facebookresearch",
             "repo": "deit",
-            "stars": 4346,
+            "stars": 4345,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -916,7 +916,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26339,
+            "stars": 26338,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1145,7 +1145,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11755,
+            "stars": 11756,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -2629,7 +2629,7 @@
             "open_issues": 691,
             "owner": "microsoft",
             "repo": "unilm",
-            "stars": 22240,
+            "stars": 22242,
             "topics": [
               "beit",
               "beit-3",
@@ -2770,7 +2770,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T16:18:02.430Z",
+    "last_updated": "2026-11-08T16:36:48.918Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
