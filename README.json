@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-15T11:34:51Z",
-            "open_issues": 1273,
+            "last_commit": "2026-11-16T11:38:11Z",
+            "open_issues": 1275,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18010,
+            "stars": 18011,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -164,7 +164,7 @@
             "open_issues": 7,
             "owner": "forresti",
             "repo": "SqueezeNet",
-            "stars": 2224,
+            "stars": 2225,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -185,7 +185,7 @@
             "open_issues": 30,
             "owner": "liuzhuang13",
             "repo": "DenseNet",
-            "stars": 4871,
+            "stars": 4870,
             "topics": [
               "deep-learning"
             ]
@@ -325,7 +325,7 @@
             "open_issues": 16,
             "owner": "hujie-frank",
             "repo": "SENet",
-            "stars": 3654,
+            "stars": 3656,
             "topics": [
               "caffe",
               "gpu",
@@ -350,7 +350,7 @@
             "open_issues": 20,
             "owner": "tengshaofeng",
             "repo": "ResidualAttentionNetwork-pytorch",
-            "stars": 685,
+            "stars": 686,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -439,7 +439,7 @@
             "open_issues": 138,
             "owner": "google-research",
             "repo": "vision_transformer",
-            "stars": 12774,
+            "stars": 12777,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -460,7 +460,7 @@
             "open_issues": 20,
             "owner": "facebookresearch",
             "repo": "deit",
-            "stars": 4345,
+            "stars": 4346,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -582,7 +582,7 @@
             "open_issues": 18,
             "owner": "microsoft",
             "repo": "Focal-Transformer",
-            "stars": 560,
+            "stars": 561,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -633,7 +633,7 @@
             "open_issues": 57,
             "owner": "facebookresearch",
             "repo": "ConvNeXt",
-            "stars": 6410,
+            "stars": 6411,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -654,7 +654,7 @@
             "open_issues": 62,
             "owner": "facebookresearch",
             "repo": "ConvNeXt-V2",
-            "stars": 2066,
+            "stars": 2067,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -890,7 +890,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26334,
+            "stars": 26333,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -981,7 +981,7 @@
             "open_issues": 70,
             "owner": "zjhuang22",
             "repo": "maskscoring_rcnn",
-            "stars": 1895,
+            "stars": 1896,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1119,7 +1119,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11765,
+            "stars": 11768,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1190,8 +1190,8 @@
             "id": 140302908,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T18:42:14Z",
-            "open_issues": 36,
+            "last_commit": "2026-11-16T14:03:14Z",
+            "open_issues": 38,
             "owner": "supervisely",
             "repo": "supervisely",
             "stars": 548,
@@ -1431,7 +1431,7 @@
             "open_issues": 6,
             "owner": "nibtehaz",
             "repo": "MultiResUNet",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "medical-imaging",
               "segmentation-models"
@@ -2197,7 +2197,7 @@
             "open_issues": 62,
             "owner": "facebookresearch",
             "repo": "moco",
-            "stars": 5140,
+            "stars": 5139,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2379,10 +2379,10 @@
             "language": "Jupyter Notebook",
             "license": "Apache-2.0",
             "last_commit": "2026-06-17T13:51:27Z",
-            "open_issues": 358,
+            "open_issues": 360,
             "owner": "google-deepmind",
             "repo": "deepmind-research",
-            "stars": 15273,
+            "stars": 15277,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2466,7 +2466,7 @@
             "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "vicreg",
-            "stars": 575,
+            "stars": 576,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2508,7 +2508,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8360,
+            "stars": 8361,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2529,7 +2529,7 @@
             "open_issues": 133,
             "owner": "facebookresearch",
             "repo": "mae",
-            "stars": 8360,
+            "stars": 8361,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2550,7 +2550,7 @@
             "open_issues": 8,
             "owner": "bytedance",
             "repo": "ibot",
-            "stars": 778,
+            "stars": 777,
             "topics": [
               "ibot",
               "research",
@@ -2744,7 +2744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T16:57:54.269Z",
+    "last_updated": "2026-11-16T20:17:49.925Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
