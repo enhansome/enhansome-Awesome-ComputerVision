@@ -136,11 +136,11 @@
             "id": 73328905,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-19T11:35:47Z",
-            "open_issues": 1278,
+            "last_commit": "2026-11-20T11:36:06Z",
+            "open_issues": 1260,
             "owner": "pytorch",
             "repo": "vision",
-            "stars": 18021,
+            "stars": 18023,
             "topics": [
               "computer-vision",
               "machine-learning"
@@ -164,7 +164,7 @@
             "open_issues": 7,
             "owner": "forresti",
             "repo": "SqueezeNet",
-            "stars": 2225,
+            "stars": 2223,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -185,7 +185,7 @@
             "open_issues": 30,
             "owner": "liuzhuang13",
             "repo": "DenseNet",
-            "stars": 4871,
+            "stars": 4870,
             "topics": [
               "deep-learning"
             ]
@@ -277,7 +277,7 @@
             "open_issues": 279,
             "owner": "tensorflow",
             "repo": "tfjs-models",
-            "stars": 14814,
+            "stars": 14816,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -325,7 +325,7 @@
             "open_issues": 16,
             "owner": "hujie-frank",
             "repo": "SENet",
-            "stars": 3656,
+            "stars": 3655,
             "topics": [
               "caffe",
               "gpu",
@@ -350,7 +350,7 @@
             "open_issues": 20,
             "owner": "tengshaofeng",
             "repo": "ResidualAttentionNetwork-pytorch",
-            "stars": 686,
+            "stars": 685,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -413,7 +413,7 @@
             "open_issues": 167,
             "owner": "lukemelas",
             "repo": "EfficientNet-PyTorch",
-            "stars": 8220,
+            "stars": 8219,
             "topics": [
               "efficientnet-pytorch",
               "feature-extraction",
@@ -509,7 +509,7 @@
             "open_issues": 24,
             "owner": "yitu-opensource",
             "repo": "T2T-ViT",
-            "stars": 1195,
+            "stars": 1194,
             "topics": [
               "t2t-transformer",
               "vision-transformer",
@@ -582,7 +582,7 @@
             "open_issues": 18,
             "owner": "microsoft",
             "repo": "Focal-Transformer",
-            "stars": 561,
+            "stars": 560,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -633,7 +633,7 @@
             "open_issues": 57,
             "owner": "facebookresearch",
             "repo": "ConvNeXt",
-            "stars": 6410,
+            "stars": 6409,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -654,7 +654,7 @@
             "open_issues": 62,
             "owner": "facebookresearch",
             "repo": "ConvNeXt-V2",
-            "stars": 2067,
+            "stars": 2066,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -764,7 +764,7 @@
             "open_issues": 422,
             "owner": "jwyang",
             "repo": "faster-rcnn.pytorch",
-            "stars": 7857,
+            "stars": 7855,
             "topics": [
               "faster-rcnn",
               "pytorch"
@@ -865,7 +865,7 @@
             "open_issues": 147,
             "owner": "yhenon",
             "repo": "pytorch-retinanet",
-            "stars": 2203,
+            "stars": 2202,
             "topics": [
               "python",
               "pytorch",
@@ -890,7 +890,7 @@
             "open_issues": 331,
             "owner": "facebookresearch",
             "repo": "Detectron",
-            "stars": 26333,
+            "stars": 26334,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -981,7 +981,7 @@
             "open_issues": 70,
             "owner": "zjhuang22",
             "repo": "maskscoring_rcnn",
-            "stars": 1896,
+            "stars": 1895,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1119,7 +1119,7 @@
             "open_issues": 126,
             "owner": "milesial",
             "repo": "Pytorch-UNet",
-            "stars": 11774,
+            "stars": 11773,
             "topics": [
               "convolutional-networks",
               "convolutional-neural-networks",
@@ -1152,7 +1152,7 @@
             "open_issues": 31,
             "owner": "fyu",
             "repo": "drn",
-            "stars": 1103,
+            "stars": 1102,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1220,7 +1220,7 @@
             "open_issues": 16,
             "owner": "yassouali",
             "repo": "pytorch-segmentation",
-            "stars": 1817,
+            "stars": 1816,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1245,7 +1245,7 @@
             "open_issues": 78,
             "owner": "hszhao",
             "repo": "PSPNet",
-            "stars": 1662,
+            "stars": 1661,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1287,7 +1287,7 @@
             "open_issues": 16,
             "owner": "yassouali",
             "repo": "pytorch-segmentation",
-            "stars": 1817,
+            "stars": 1816,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -1383,7 +1383,7 @@
             "open_issues": 10,
             "owner": "LeeJunHyun",
             "repo": "Image_Segmentation",
-            "stars": 3109,
+            "stars": 3108,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -1404,7 +1404,7 @@
             "open_issues": 0,
             "owner": "ozan-oktay",
             "repo": "Attention-Gated-Networks",
-            "stars": 2067,
+            "stars": 2066,
             "topics": [
               "attention-gates",
               "attention-model",
@@ -1956,7 +1956,7 @@
             "open_issues": 26,
             "owner": "jakesnell",
             "repo": "prototypical-networks",
-            "stars": 1236,
+            "stars": 1234,
             "topics": [
               "deep-learning",
               "few-shot",
@@ -1984,7 +1984,7 @@
             "open_issues": 33,
             "owner": "floodsung",
             "repo": "LearningToCompare_FSL",
-            "stars": 1076,
+            "stars": 1075,
             "topics": [
               "few-shot-learning",
               "meta-learning"
@@ -2008,7 +2008,7 @@
             "open_issues": 2,
             "owner": "twitter-research",
             "repo": "meta-learning-lstm",
-            "stars": 379,
+            "stars": 378,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2029,7 +2029,7 @@
             "open_issues": 47,
             "owner": "cbfinn",
             "repo": "maml",
-            "stars": 2723,
+            "stars": 2722,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2266,7 +2266,7 @@
             "open_issues": 71,
             "owner": "google-research",
             "repo": "simclr",
-            "stars": 4500,
+            "stars": 4499,
             "topics": [
               "computer-vision",
               "contrastive-learning",
@@ -2295,7 +2295,7 @@
             "open_issues": 71,
             "owner": "google-research",
             "repo": "simclr",
-            "stars": 4500,
+            "stars": 4499,
             "topics": [
               "computer-vision",
               "contrastive-learning",
@@ -2324,7 +2324,7 @@
             "open_issues": 71,
             "owner": "google-research",
             "repo": "simclr",
-            "stars": 4500,
+            "stars": 4499,
             "topics": [
               "computer-vision",
               "contrastive-learning",
@@ -2466,7 +2466,7 @@
             "open_issues": 5,
             "owner": "facebookresearch",
             "repo": "vicreg",
-            "stars": 576,
+            "stars": 575,
             "topics": []
           },
           "first_seen": "2026-08-28T21:10:14.955Z"
@@ -2671,7 +2671,7 @@
             "open_issues": 16,
             "owner": "keyu-tian",
             "repo": "SparK",
-            "stars": 1385,
+            "stars": 1384,
             "topics": [
               "bert",
               "cnn",
@@ -2744,7 +2744,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T18:57:04.838Z",
+    "last_updated": "2026-11-20T18:30:34.508Z",
     "original_repository_info": {
       "archived": false,
       "description": " Awesome-ComputerVision",
